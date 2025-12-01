@@ -55,9 +55,11 @@
     - [场景库与交通流](#场景库与交通流)
 
 - [中间件与通信](#中间件与通信)
+    - [ROS/ROS 2 架构](rosros-2-架构)
     - [Fast-DDS / CycloneDDS](#fast-dds--cyclonedds)
     - [some/IP + vsomeip](#someip--vsomeip)
     - [Protobuf 序列化](#protobuf-序列化)
+    
 </details>
   
 ## 数学与几何基础
@@ -749,6 +751,34 @@ CARLA 是开源自动驾驶仿真平台，提供 C++ 客户端 API，可控制�
 
 ## 中间件与通信
 自动驾驶系统由多个模块（感知/定位/规划/控制）组成，中间件负责模块间的数据传输，C++ 需重点关注 **低延迟** 和 **可靠性**。
+### ROS/ROS 2 架构
+**核心原理**
+
+ROS (Robot Operating System) 提供了一套标准的通信机制和工具库，用于将自动驾驶中的感知、定位、规划等 C++ 算法模块组织成一个松耦合的分布式系统。ROS 2 基于 DDS，是目前工业和学术界的主流选择。
+
+**C++ 实现关键点**
+
+1.  **节点 (Node)**：每个独立的 C++ 算法模块（例如 LiDAR Odometry 或 MPC 控制器）都被封装为一个 **ROS 节点**，拥有独立的执行线程和命名空间。
+    * 在 ROS 2 中，使用 `rclcpp::Node` 基类来创建 C++ 节点。
+2.  **通信机制**：
+    * **话题 (Topic)**：使用发布/订阅 (Pub/Sub) 模式传递实时、连续的数据流（如点云、图像、定位位姿）。C++ 中通过 `create_publisher` 和 `create_subscription` 实现。
+    * **服务 (Service)**：用于请求/响应模式的通信（如请求地图数据、标定参数）。
+3.  **数据类型**：ROS/ROS 2 使用 IDL (Interface Definition Language) 定义消息结构（如 `.msg` 文件），这些文件在 C++ 编译时自动生成对应的 C++ 结构体，用于高效的数据传输。
+4.  **工程工具**：
+    * **Rviz**：C++ 算法开发者进行实时可视化和调试的必备工具。
+    * **rosbag**：用于录制和回放传感器数据，进行离线算法验证。
+
+**应用场景**
+
+* 系统集成：将独立的 C++ 算法模块连接成完整的自动驾驶软件栈。
+* 实时调试：通过 ROS 提供的工具链，实时监控 C++ 算法的输入、输出和内部状态。
+
+**学习资源**
+
+* 官方文档：[ROS 2 Foxy/Humble C++ Tutorials](https://docs.ros.org/en/foxy/Tutorials.html)
+* 实战项目：
+    - 入门：[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
+    - 工业级：[Autoware.Universe](https://github.com/autowarefoundation/autoware.universe)
 
 ### Fast-DDS / CycloneDDS
 **核心原理**
@@ -838,3 +868,5 @@ Protobuf（Protocol Buffers）是高效的序列化协议，用于数据的存�
   ```
 **应用场景**
 模块间数据传输（如感知模块将障碍物信息序列化后通过 DDS 发送给规划模块）、地图数据存储。
+
+
