@@ -16,15 +16,17 @@
 - [🤝 Community & Contribution](#-community--contribution)
 
 ## 🗺️ Learning Roadmap
+
 <details>
 <summary>Click to expand</summary>
    
 ![Roadmap](./roadmap/roadmap.en.svg)
+
 </details>
 
 ## ✨ Core Topics Explained
-<details>
-<summary>Click to expand</summary>
+
+
    
 - [Math & Geometry](core_content/README.md#数学与几何基础)
     - [Eigen](core_content/README.md#eigen)
@@ -72,11 +74,11 @@
     - [Fast-DDS / CycloneDDS](core_content/README.md#fast-dds--cyclonedds)
     - [some/IP + vsomeip](core_content/README.md#someip--vsomeip)
     - [Protobuf Serialization](core_content/README.md#protobuf-序列化)
-</details>
+
 
 ## 📚 Courses, Books & Papers
-<details>
-<summary>Click to expand</summary>
+
+
 
 ### Courses
 | Course Name | Description |
@@ -143,11 +145,11 @@
 | [VISTA 2.0](https://arxiv.org/pdf/2211.00931.pdf) | Alexander Amini et al. | 2022 | IROS | Data-driven simulator, C++ multi-modal sensor simulation |
 | [DriveAdapter](https://arxiv.org/pdf/2309.01243.pdf) | Xiaosong Jia et al. | 2023 | ICCV | Perception-planning decoupled new paradigm, best C++ modular practice |
 | [OpenOccupancy: A Large Scale Benchmark](https://arxiv.org/pdf/2303.03991.pdf) | Xiaofeng Wang, Zheng Zhu et al. | 2023 | ICCV | Largest open-source Occupancy dataset, official C++ benchmark code |
-</details>
+
 
 ## 📊 Datasets
-<details>
-<summary>Click to expand</summary>
+
+
   
 - [KITTI](https://www.cvlibs.net/datasets/kitti/raw_data.php)  
   Classic 3D perception benchmark for 3D object detection, tracking, and odometry
@@ -195,12 +197,12 @@
   Spatio-temporal chain-of-thought dataset, supporting vision-driven autonomous driving prediction and planning
 - [Adverse Weather Dataset](https://light.princeton.edu/datasets/automated_driving_dataset/)  
   Adverse weather multi-modal dataset with 12K real samples and 1.5K controlled samples under snow/rain/fog conditions
-</details>
-</details>
+
+
 
 ## 🛠️ Toolchain
-<details>
-<summary>Click to expand</summary>
+
+
   
 - [Apollo](https://github.com/ApolloAuto/apollo)  
   Baidu's complete open-source L4 autonomous driving platform covering perception, planning, control, and simulation
@@ -244,11 +246,11 @@
   Open-source HD map format and routing library, Autoware's default map solution
 - [AUTOSAR Adaptive](https://www.autosar.org/standards/adaptive-platform/)  
   Next-generation in-vehicle adaptive software platform standard supporting dynamic updates and service-oriented architecture
-</details>
+
 
 ## 💻 Open-Source Projects
-<details>
-<summary>Click to expand</summary>
+
+
   
 - [Apollo](https://github.com/ApolloAuto/apollo)  
   Baidu L4 full-stack autonomous driving platform covering perception, planning, control, and simulation, supporting real vehicle deployment
@@ -276,11 +278,11 @@
   Microsoft open-source simulator supporting autonomous driving and drone multi-platform simulation
 - [Webots](https://github.com/cyberbotics/webots)  
   Open-source robot simulator supporting ROS2 and autonomous vehicle physics simulation
-</details>
+
 
 ## 🎓 Interview Questions
-<details>
-<summary>Click to expand</summary>
+
+
 
 ### Perception Engineer
 - Describe common point cloud filtering methods (voxel, statistical, pass-through) and their applicable scenarios
@@ -408,11 +410,11 @@
 ### C++
 - [C++ High-frequency Interview Questions](https://github.com/0voice/cpp-learning-2025/blob/main/interview_questions/README.en.md)
 
-</details>
+
 
 ## 💼 Job Board
-<details>
-<summary>Click to expand</summary>
+
+
 
 - **Waymo** – [Apply Here](https://waymo.com/careers/)
 - **Cruise** – [Apply Here](https://getcruise.com/careers/)
@@ -423,11 +425,11 @@
 - **Applied Intuition** – [Apply Here](https://www.appliedintuition.com/careers)
 - **Waabi** – [Apply Here](https://waabi.ai/careers/)
 - **Oxa** – [Apply Here](https://oxa.tech/careers/)
-</details>
+
 
 ## 🤝 Community & Contribution
-<details>
-<summary>Click to expand</summary>
+
+
 
 Thank you for visiting!  
 This repo aims to be the strongest C++ autonomous driving resource collection worldwide.
@@ -435,4 +437,4 @@ This repo aims to be the strongest C++ autonomous driving resource collection wo
 Contributions of any kind are extremely welcome — new projects, fixes, translations, interview questions, etc.
 
 Star & Watch so you never miss an update!
-</details>
+
