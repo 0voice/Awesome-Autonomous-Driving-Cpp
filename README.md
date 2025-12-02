@@ -4,12 +4,12 @@
 ## 📖 目录
 - [🗺️ 学习路线图](#%EF%B8%8F-学习路线图)
 - [✨ 核心内容讲解](#-核心内容讲解)
-- [📚 学习资源（课程/书籍/论文）](#-学习资源)
+- [📚 学习资源（课程/书籍/论文）](#-学习资源课程书籍论文)
 - [📊 数据集](#-数据集)
 - [🛠️ 工具链](#%EF%B8%8F-工具链)
 - [💻 开源项目](-开源项目)
 - [🎓 面试八股文](#-面试八股文)
-- [💼 招聘信息（2025最新）](#-招聘信息2025最新)
+- [💼 招聘信息](#-招聘信息)
 - [🤝 社区与贡献](#-社区与贡献)
 
 ## 🗺️ 学习路线图
@@ -81,7 +81,7 @@
     - [Protobuf 序列化](core_content/README.md#protobuf-序列化)
 </details>
 
-## 📚 学习资源
+## 📚 学习资源（课程/书籍/论文）
 <details>
 <summary>点击展开</summary>
 
@@ -478,3 +478,41 @@
 - [C++高频面试题](https://github.com/0voice/cpp-learning-2025/blob/main/interview_questions/README.md)
 
   </details>
+
+## 💼 招聘信息
+<details>
+<summary>点击展开</summary>
+    
+以下公司正在招聘自动驾驶岗位（更新时间：2025.12.02）
+- **小米集团** - 投递链接：https://hr.xiaomi.com/campus
+- **元戎启行** - 投递链接：https://app.mokahr.com/campus-recruitment/deeproute/145894#/home
+- **零跑汽车** - 投递链接：https://leapmotor.zhiye.com/campus
+- **地平线** - 投递链接：https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/school.html
+- **小鹏汽车** - 投递链接：https://xiaopeng.jobs.feishu.cn/campus
+- **百度Apollo** - 投递链接：https://talent.baidu.com/jobs/
+- **比亚迪** - 投递链接：https://job.byd.com
+- **轻舟智行** - 投递链接：https://www.qcraft.ai/careers
+- **蔚来汽车** - 投递链接：https://nio.jobs.feishu.cn/campus
+- **佑驾创新** - 投递链接：https://www.minieye.cc
+- **禾赛科技** - 投递链接：https://kwh0jtf778.jobs.feishu.cn/229043
+- **经纬恒润** - 投递链接：http://zhaopin.hirain.com
+- **柳工** - 投递链接：https://liugong.hotjob.cn/
+- **德赛西威** - 投递链接：https://yesv-desaysv.jobs.feishu.cn/index
+- **主线科技** - 投递链接：https://app.mokahr.com/social-recruitment/trunk/39504#/
+- **山东临工** - 投递链接：https://hr.sdlg.cn/recruit#/index
+- **Momenta** - 投递链接：https://momenta.jobs.feishu.cn/talent
+- **鉴智机器人** - 投递链接：https://phigentai.jobs.feishu.cn/index
+- **奇瑞汽车**- 投递链接： https://chery1.zhiye.com/
+
+</details>
+
+## 🤝 社区与贡献
+<details>
+<summary>点击展开</summary>
+    
+非常感谢你对本仓库感兴趣！  
+
+这个仓库的目标是**收集全球最优秀的 C++ 自动驾驶相关资源，成为 C++ 开发者进入自动驾驶领域的第一站。**
+
+无论你是想补充开源项目、修复错误链接、改进分类、添加说明，还是翻译成其他语言，你的每一次贡献都让社区更强大！
+</details>
