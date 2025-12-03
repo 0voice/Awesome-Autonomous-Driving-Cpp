@@ -231,8 +231,6 @@
 
 
 ## 🛠️ Toolchain
-
-
   
 - [Apollo](https://github.com/ApolloAuto/apollo)  
   Baidu's complete open-source L4 autonomous driving platform covering perception, planning, control, and simulation
@@ -279,35 +277,81 @@
 
 
 ## 💻 Open-Source Projects
-
-
   
 - [Apollo](https://github.com/ApolloAuto/apollo)  
-  Baidu L4 full-stack autonomous driving platform covering perception, planning, control, and simulation, supporting real vehicle deployment
+  Baidu's L4 full-stack autonomous driving platform with real-vehicle deployment support
+
 - [Autoware](https://github.com/autowarefoundation/autoware)  
-  World's largest ROS2-based open-source autonomous driving system, already running on real vehicles in multiple countries
+  ROS2-based open-source autonomous driving system, deployed on public roads in multiple countries
+
 - [openpilot](https://github.com/commaai/openpilot)  
-  comma.ai end-to-end driving system, real L2++ benchmark running on 200,000+ vehicles
-- [CARLA](https://github.com/carla-simulator/carla)  
-  High-fidelity autonomous driving simulator based on Unreal Engine, supporting multi-sensor and traffic flow
-- [LGSVL Simulator](https://github.com/lgsvl/simulator)  
-  Former LG simulator, perfect closed-loop testing support for Apollo/Autoware
+  comma.ai end-to-end driving system, running on over 200,000 real vehicles
+
 - [UniAD](https://github.com/OpenDriveLab/UniAD)  
-  Open-source full end-to-end autonomous driving pipeline (perception-prediction-planning-control)
-- [DriveDreamer-2](https://github.com/f1yfisher/DriveDreamer2)  
-  Open-source end-to-end driving model that can generate world models and drive directly in CARLA
-- [OpenOccupancy](https://github.com/JeffWang987/OpenOccupancy)  
-  Official Occupancy/4D-Occupancy open-source implementation
+  End-to-end autonomous driving framework (perception → prediction → planning → control)
+
 - [VAD](https://github.com/hustvl/VAD)  
-  End-to-end autonomous driving open-source (vectorized trajectory output)
+  End-to-end autonomous driving model with vectorized trajectory output
+
 - [ST-P3](https://github.com/OpenDriveLab/ST-P3)  
-  Transformer one-stop end-to-end autonomous driving, fully connecting perception-prediction-planning
-- [Donkey Car](https://github.com/autorope/donkeycar)  
-  Real 1:10 scale car hardware + complete deep learning project
+  Transformer-based unified end-to-end perception-prediction-planning model
+
+- [DriveDreamer-2](https://github.com/UMassFoundationsOfRobotics/DriveDreamer-2)  
+  World model-based end-to-end driving framework
+
+- [CARLA](https://github.com/carla-simulator/carla)  
+  High-fidelity autonomous driving simulator built on Unreal Engine
+
+- [MetaDrive](https://github.com/metadriverse/metadrive)  
+  Lightweight simulator capable of generating unlimited driving scenarios
+
+- [SUMO](https://github.com/eclipse-sumo/sumo)  
+  Open-source microscopic traffic simulator widely used for AV traffic scenario research
+
 - [AirSim](https://github.com/microsoft/AirSim)  
-  Microsoft open-source simulator supporting autonomous driving and drone multi-platform simulation
+  Microsoft simulator for autonomous vehicles and drones based on Unreal Engine
+
 - [Webots](https://github.com/cyberbotics/webots)  
-  Open-source robot simulator supporting ROS2 and autonomous vehicle physics simulation
+  Open-source robot simulator with high-precision vehicle physics
+
+- [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)  
+  PyTorch-based 3D point cloud object detection toolbox
+
+- [MMDetection3D](https://github.com/open-mmlab/mmdetection3d)  
+  OpenMMLab multi-modality 3D object detection framework
+
+- [BEVFusion](https://github.com/mit-han-lab/bevfusion)  
+  Camera + LiDAR multi-modal Bird’s-Eye-View fusion implementation
+
+- [OpenOccupancy](https://github.com/open-mmlab/OpenOccupancy)  
+  Official Occupancy Network implementation supporting 3D/4D occupancy prediction
+
+- [PETRv2](https://github.com/megvii-research/PETR)  
+  Vision-only 3D object detection and occupancy prediction
+
+- [QCNet](https://github.com/ZikangZhou/QCNet)  
+  Query-based interactive motion prediction model
+
+- [HiVT](https://github.com/ZikangZhou/HiVT)  
+  Transformer-based global interaction trajectory prediction model
+
+- [PlanT](https://github.com/autonomousvision/plant)  
+  Planning model supporting joint language instruction and trajectory generation
+
+- [Drive-WM](https://github.com/BraveGroup/Drive-WM)  
+  World model-based autonomous driving planning framework
+
+- [WorldModel-Series](https://github.com/LMD0311/Awesome-World-Model)  
+  Collection of world models for autonomous driving (DriveDreamer, GAIA-1, etc.)
+
+- [Donkey Car](https://github.com/autorope/donkeycar)  
+  Complete 1:10 scale self-driving car open-source project
+
+- [F1TENTH](https://github.com/f1tenth/f1tenth_system)  
+  1:10 high-speed autonomous racing platform, global university competition standard
+
+- [JetRacer](https://github.com/NVIDIA-AI-IOT/jetracer)  
+  Official NVIDIA Jetson Nano-based self-driving car platform
 
 
 ## 📰 Related Articles
