@@ -87,23 +87,23 @@
 
 ### 课程
 
-| 课程名称                                                                 | 简介                                                                 |
+| 课程名称 | 简介 |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars) | 全球最完整的自动驾驶四门套课，感知+定位+规划+控制全栈                |
-| [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) | 自动驾驶入门第一课，含CARLA模拟器项目                                |
-| [Motion Planning for Self-Driving Cars](https://www.coursera.org/learn/motion-planning-self-driving-cars) | 规划方向天花板，A*、Hybrid A*、Lattice、MPC全覆盖                    |
-| [Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) | 车道线、信号灯、3D目标检测完整流程，OpenCV作业极易转C++              |
-| [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) | 卡尔曼滤波、粒子滤波、SLAM入门，矩阵作业天然适合C++实现             |
-| [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown) | 苏黎世联邦理工实车小车课，ROS2 + C++全程实战，软硬件结合             |
-| [Multi-Object Tracking for Automotive Systems](https://www.edx.org/learn/engineering/chalmers-university-of-technology-multi-object-tracking-for-automotive-systems) | 查尔姆斯大学多目标跟踪课，专为汽车系统设计，含SORT/Kalman融合        |
-| [Autonomous Mobile Robots](https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots) | ETH Zurich移动机器人课，路径规划/避障算法，适用于自驾车定位          |
-| [Self-Driving Cars with Duckietown MOOC](https://duckietown.com/self-driving-cars-with-duckietown-mooc/) | ETH Zurich Duckietown硬件MOOC，AI机器人自主决策，免费硬件教程        |
-| [Advanced Kalman Filtering and Sensor Fusion](https://www.classcentral.com/course/udemy-advanced-kalman-filtering-and-sensor-fusion-401323) | Udemy高级卡尔曼滤波和传感器融合，专注自驾车C++模拟实现               |
-| [Sensor Fusion Engineer Nanodegree](https://www.udacity.com/course/sensor-fusion-engineer--nd313) | Udacity传感器融合专项，LiDAR+Radar+Camera融合，C++实时实现           |
-| [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer--nd013) | Udacity自驾车工程师全栈，感知到规划，C++部署项目                     |
-| [AI for Autonomous Vehicles and Robotics](https://www.coursera.org/learn/ai-for-autonomous-vehicles-and-robotics) | 密歇根大学AI在自驾车中的应用，含Kalman滤波和决策，边缘计算扩展       |
-| [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/) | 深度学习计算机视觉机器学习构建自主车，Python但易转C++                |
-| [Autonomous Aerospace Systems](https://www.coursera.org/learn/autonomous-aerospace-systems) | 自驾飞行器软件工程，路径规划/传感器融合，适用于自驾车                |
+| [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars) | 多伦多大学四门套课，覆盖感知、定位、规划、控制全栈 |
+| [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) | 自动驾驶入门课，使用CARLA模拟器 |
+| [Motion Planning for Self-Driving Cars](https://www.coursera.org/learn/motion-planning-self-driving-cars) | 运动规划课程，包含A*、Hybrid A*、Lattice、MPC等算法 |
+| [Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) | 视觉感知课程，车道线、信号灯、3D目标检测，作业基于OpenCV |
+| [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) | 状态估计与定位课程，卡尔曼滤波、粒子滤波、SLAM基础 |
+| [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown) | 苏黎世联邦理工小车课程，使用ROS2，软硬件结合 |
+| [Multi-Object Tracking for Automotive Systems](https://www.edx.org/learn/engineering/chalmers-university-of-technology-multi-object-tracking-for-automotive-systems) | 查尔姆斯大学多目标跟踪课程，针对汽车系统，包含SORT和Kalman融合 |
+| [Autonomous Mobile Robots](https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots) | ETH Zurich移动机器人课程，路径规划与避障算法 |
+| [Self-Driving Cars with Duckietown MOOC](https://duckietown.com/self-driving-cars-with-duckietown-mooc/) | Duckietown硬件MOOC，包含AI机器人自主决策和硬件教程 |
+| [Advanced Kalman Filtering and Sensor Fusion](https://www.classcentral.com/course/udemy-advanced-kalman-filtering-and-sensor-fusion-401323) | Udemy高级卡尔曼滤波与传感器融合课程，包含模拟实现 |
+| [Sensor Fusion Engineer Nanodegree](https://www.udacity.com/course/sensor-fusion-engineer--nd313) | Udacity传感器融合专项，LiDAR+Radar+Camera融合，使用C++实现 |
+| [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer--nd013) | Udacity自驾车工程师全栈专项，从感知到规划，包含C++项目 |
+| [AI for Autonomous Vehicles and Robotics](https://www.coursera.org/learn/ai-for-autonomous-vehicles-and-robotics) | 密歇根大学课程，AI在自驾车中的应用，包含Kalman滤波和决策 |
+| [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/) | Udemy深度学习构建自主车课程，主要使用Python |
+| [Autonomous Aerospace Systems](https://www.coursera.org/learn/autonomous-aerospace-systems) | 自驾飞行器软件工程课程，路径规划与传感器融合，可迁移至地面车辆 |
 
     
 ### 书籍
