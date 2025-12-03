@@ -10,6 +10,7 @@
 - [📊 数据集](#-数据集)
 - [🛠️ 工具链](#%EF%B8%8F-工具链)
 - [💻 开源项目](#-开源项目)
+- [📰 相关文章](#-相关文章)
 - [🎓 面试八股文](#-面试八股文)
 - [💼 招聘信息](#-招聘信息)
 - [🤝 社区与贡献](#-社区与贡献)
@@ -371,6 +372,189 @@
 - [Webots](https://github.com/cyberbotics/webots)  
   开源机器人仿真器，支持ROS2与自动驾驶车辆物理模拟
 
+## 📰 相关文章
+<details>
+<summary>国外</summary>
+
+- [Nvidia announces new open AI models and tools for autonomous driving research](https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/)  
+  Nvidia发布首个视觉语言动作模型Alpamayo-R1，支持自动驾驶车辆理解文本+图像，实现更精细决策。
+- [Safe, Routine, Ready: Autonomous driving in five new cities](https://waymo.com/blog/2025/11/safe-routine-ready-autonomous-driving-in-new-cities)  
+  Waymo在迈阿密、达拉斯、休斯顿等五城开启完全无人驾驶运营，安全表现超人类11倍。
+- [When will autonomous vehicles and self-driving cars hit the road?](https://www.weforum.org/stories/2025/05/autonomous-vehicles-technology-future/)  
+  世界经济论坛白皮书，详解个人车、Robotaxi、无人卡车三种场景的真实落地时间表。
+- [2025’s cutting-edge autonomous driving trends](https://www.here.com/learn/blog/autonomous-driving-features-trends-2025)  
+  HERE Technologies盘点2025年ADAS、高级自动化驾驶与传感器融合最新趋势。
+- [Is Autonomous Driving Ever Going To Happen?](https://www.forbes.com/sites/bernardmarr/2025/10/01/is-autonomous-driving-ever-going-to-happen/)  
+  Forbes深度分析Robotaxi与L3功能进展，以及安全、法规、公众信任三大障碍。
+- [Self driving cars: where we really stand in 2025](https://www.europcar.com/editorial/auto/innovations/self-driving-cars-state-of-play-in-2025)  
+  2025年自动驾驶真实现状：L2系统普及、城市试点、私有车监管仍遥远。
+- [Autonomous Vehicle Trends: What's Next for Autonomous Driving?](https://www.gdsonline.tech/autonomous-vehicle-trends-whats-next/)  
+  L3/L4高速场景、电动化融合，预测到2045年市场规模1740亿美元。
+- [How AI Is Unlocking Level 4 Autonomous Driving](https://blogs.nvidia.com/blog/level-4-autonomous-driving-ai/)  
+  Nvidia分享基础模型、神经重建与安全冗余技术如何推动L4区域落地。
+- [CES 2025: Self-driving cars were everywhere](https://techcrunch.com/2025/01/12/ces-2025-self-driving-cars-were-everywhere-plus-other-transportation-tech-trends/)  
+  CES 2025自动驾驶亮点：Waymo、Zoox、Nvidia、Tier IV等全面展示，Nvidia与Uber合作推动模拟和传感器创新。
+- [AI Insights Improve Autonomous Vehicles' Decisions](https://spectrum.ieee.org/autonomous-vehicles-explainable-ai-decisions)  
+  使用SHAP等可解释AI实时分析自动驾驶决策，提升安全与信任，实时分析AV决策以提升信任和错误识别。
+- [Robotaxis Are Blazing the Trail for Self-Driving Cars](https://spectrum.ieee.org/robotaxi)  
+  武汉、旧金山等城市Robotaxi快速发展，百度与Waymo预计2025年实现盈利。
+- [Waymo says it will ‘soon begin fully autonomous driving’ in Houston](https://www.houstonpublicmedia.org/articles/technology/2025/11/18/536441/waymo-houston-autonomous-self-driving-cars/)  
+  Waymo宣布将在休斯顿启动完全无人驾驶服务，在休斯顿、达拉斯等德州城市从监督测试转向完全无人测试，预计明年向公众开放。
+- [Self-Driving Cars in 2025: Where We Are Right Now According to Ride AI](https://www.motortrend.com/news/ride-ai-2025-autonomous-driving-conference-report)  
+  Ride AI大会总结：硬件、AI、法规缺一不可。
+- [Vehicles That Are Almost Self-Driving in 2025](https://cars.usnews.com/cars-trucks/advice/cars-that-are-almost-self-driving)  
+  2025年最接近全自动的量产车型：VW ID.4、Nissan Ariya、Mercedes Drive Pilot等，聚焦半自主功能。
+- [How GenAI is driving the development of vehicle autonomy](https://www.weforum.org/stories/2025/04/how-genai-is-helping-drive-vehicle-autonomy/)  
+  生成式AI通过合成数据与端到端系统加速L4落地。
+- [Autonomous Vehicles: Timeline and Roadmap Ahead (WEF 2025 PDF)](https://reports.weforum.org/docs/WEF_Autonomous_Vehicles_2025.pdf)  
+  世界经济论坛2025-2035自动驾驶路线图与关键障碍分析（PDF）。
+- [Must-Read: Top 10 Autonomous Vehicle Trends (2025)](https://fifthlevelconsulting.com/top-10-autonomous-vehicle-trends-2025/)  
+  2025十大趋势：L3-L5扩展、AI深度集成、Nvidia Thor SoC等。
+- [Autonomous Vehicle Trends Taking Shape in 2025](https://innoviz.tech/blog/autonomous-vehicle-trends-2025)  
+  高分辨率传感器、数据爆炸与监管加速推动更安全自动驾驶。
+- [8 Autonomous Vehicle Trends in 2025](https://www.startus-insights.com/innovators-guide/autonomous-vehicle-trends/)  
+  物联网、AI、车联网、ADAS与网络安全八大创新方向。
+- [Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey](https://arxiv.org/html/2509.10570v1)  
+  LLM/MLLM轨迹预测综述：车辆/行人多模态集成，覆盖2023-2025研究。
+- [A Practical-Driven Framework for Transitioning Drive-by-Wire to Autonomous Driving Systems](https://arxiv.org/html/2410.06492v2)  
+  Chrysler Pacifica + Autoware.AI案例：传感器融合与实时挑战解决。
+- [A Survey on Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/html/2506.24044v1)  
+  VLA4AD模型综述（2023-2025）：多模态输入、低级控制与规划输出。
+- [Autonomous vehicles: The future of automobiles](https://ieeexplore.ieee.org/document/7386874)  
+  AV作为高效城市车辆，汽车制造商应对实施挑战。
+- [China Autonomous Vehicles Market Report and Companies Analysis 2025-2033](https://www.businesswire.com/news/home/20250204031854/en/China-Autonomous-Vehicles-Market-Report-and-Companies-Analysis-2025-2033-Featuring-AutoX-Baidu-Apollo-Didi-Chuxing-Pony.ai-TuSimple-and-WeRide---ResearchAndMarkets.com)  
+  中国AV市场：Baidu Apollo、Pony.ai Robotaxi，2025-2033增长29.01%。
+- [L3/L4 Autonomous Driving and Startups Research Report, 2025](https://www.marketresearch.com/Research-in-China-v3266/L3-L4-Autonomous-Driving-Startups-39621599/)  
+  L3/L4初创报告：Pony.ai 2025部署千台Robotaxi，WeRide 2026大规模商用。
+- [China's AV Push: BIDU, PONY & WRD Lead the Robotaxi Revolution](https://www.nasdaq.com/articles/chinas-av-push-bidu-pony-wrd-lead-robotaxi-revolution)  
+  中国Robotaxi革命：Baidu Apollo Go 2025 Q2 220万次无人乘车，Pony.ai全球扩展。
+- [Global and China L3/L4 Autonomous Driving and Startups Research Report, 2025](https://www.businesswire.com/news/home/20250415369610/en/Global-and-China-L3L4-Autonomous-Driving-and-Startups-Research-Report-2025-Robotaxi-Steps-Towards-Scaling-During-2026-2030-L3-Personal-Vehicles-Open-New-Commercial-Opportunities---ResearchAndMarkets.com)  
+  全球/中国L3/L4报告：Waymo vs Baidu Apollo/Pony.ai，2025千台部署。
+- [HOW CHINA IS SHAPING THE AUTONOMOUS DRIVING INDUSTRY](https://www.trafa.se/globalassets/rapporter/underlagsrapporter/2025/study-on-chinas-autonomous-vehicles-and-auto-driving-system.pdf)  
+  中国AV塑造：2025 L3大规模生产、L4市场推出，Baidu Apollo全栈解决方案。
+- [Apollo Go and Pony.ai are trialling self-driving cars in Hong Kong](https://www.scmp.com/special-reports/article/3322303/apollo-go-and-ponyai-are-trialling-self-driving-cars-hong-kong)  
+  香港试运行：Baidu Apollo Go 10城运营，Pony.ai 2025下半年增至1000辆。
+- [The race begins to make the world’s best self-driving cars](https://www.theguardian.com/technology/2025/nov/10/waymo-baidu-apollo-go-china-elon-musk-tesla)  
+  中美自驾赛：Baidu Apollo Go周25万次乘车，Pony.ai硬件成本远低于Waymo。
+- [Chinese robotaxis race Waymo to take driverless cars global](https://www.scmp.com/tech/tech-trends/article/3330415/chinese-robotaxis-race-waymo-take-driverless-cars-global)  
+  中国Robotaxi全球赛：Baidu/WeRide/Pony.ai项目超美企，进军迪拜/新加坡/德国。
+- [2025: Watershed Year for Chinese Autonomous Driving Global Expansion](https://www.7itsnews.com/index.php?m=home&c=View&a=index&aid=22252)  
+  中国AV全球突破：Baidu/WeRide/Pony.ai 2025中东/东南亚/欧洲三洲布局。
+- [Self-Driving Cars Market Size & Share, Growth Trends 2025-2034](https://www.gminsights.com/industry-analysis/self-driving-cars-market)  
+  自驾车市场：2025 1.7万亿USD，Waymo/Tesla L4/L5投资AI传感器。
+- [Tensor Wants to Sell You a Private, Waymo-Style Self-Driving Car](https://www.motortrend.com/news/tensor-robocar-self-driving-car-details)  
+  Tensor Robocar：私人Waymo式L4车，8 Nvidia Thor芯片，2025豪华定价15-20万美元。
+- [Top 20 Most Advanced Autonomous Driving Chips 2025](https://www.nevsemi.com/blog/top-20-most-advanced-autonomous-driving-chips-2025)  
+  2025顶级AV芯片：Nvidia Thor 2000 TOPS，Tesla FSD HW4，市场150亿USD。
+- [Self-Driving Cars in the News | NVIDIA Automotive](https://www.nvidia.com/en-us/solutions/autonomous-vehicles/news/)  
+  Nvidia AV新闻：Hyundai 2025 OTA更新、Jaguar Land Rover大算力合作。
+- [Tesla vs Waymo - Who is closer to Level 5 Autonomous Driving?](https://www.thinkautonomous.ai/blog/tesla-vs-waymo-two-opposite-visions/)  
+  Tesla vs Waymo：Tesla端到端算法胜，Waymo传感器栈优，2025 L5竞赛。
+- [Top 5 Self-Driving Car Companies in 2025](https://shapirolawaz.com/2025/05/29/self-driving-car-companies/)  
+  2025顶级5公司：Waymo L4 robotaxi、Tesla FSD Beta、Cruise Chevy Bolt。
+- [What's Next in 2025: Autonomous Driving, Batteries and Electric Vehicles](https://www.autoevolution.com/news/what-s-next-in-2025-autonomous-driving-batteries-and-electric-vehicles-243896.html)  
+  2025展望：Tesla FSD V13无人测试、AI主导、LiDAR无关。
+- [Autonomous Vehicles Statistics and Facts (2025)](https://www.news.market.us/autonomous-vehicles-statistics/)  
+  AV统计：2025 4283亿USD，Waymo/Tesla推进，2030 5800万辆销量。
+- [Self-driving cars still out of reach despite years of industry promises](https://www.usatoday.com/story/cars/technology/2025/11/25/industry-promises-self-driving-car/87464028007/)  
+  自驾车仍遥远：Waymo 2026底特律扩展、Tesla Austin试点；尽管承诺多年，2025年自驾车仍限于试点。
+- [Opinion | The Medical Case for Self-Driving Cars](https://www.nytimes.com/2025/12/02/opinion/self-driving-cars.html)  
+  Waymo发布近1亿英里无人驾驶数据分析，显示其AV严重伤亡事故率比人类低91%，呼吁推广以减少交通死亡。
+- [Self-Driving Taxis Are Catching On. Are You Ready?](https://www.nytimes.com/2025/11/18/technology/personaltech/zoox-driverless-taxis-san-francisco.html)  
+  亚马逊Zoox在旧金山推出免费Robotaxi测试，与Waymo竞争，探讨无人出租车的优缺点与公众准备度。
+- [Self Drive News - Self-Driving and Autonomous Vehicle News](https://selfdrivenews.com/)  
+  自动驾驶最新动态：Gatik Driver入选TIME 2025最佳发明，Uber与Nvidia合作扩展L4网络。
+- [NVIDIA Makes the World Robotaxi-Ready With Uber Partnership](https://nvidianews.nvidia.com/news/nvidia-uber-robotaxi)  
+  Nvidia与Uber合作DRIVE AGX Hyperion 10，推动全球L4 Robotaxi，Stellantis、Lucid加入生态。
+- [The State of Autonomous Driving in 2025](https://autocrypt.io/state-of-autonomous-driving-2025/)  
+  2025年全球自动驾驶现状报告：中国9家车企完成L3路测准备，韩国L4认证更新，美国FMVSS豁免扩展。
+- [Huawei to test L3/L4 autonomous driving on public roads in China first, executive says](https://technode.com/2025/07/14/huawei-to-test-l3-l4-autonomous-driving-on-public-roads-in-china-first-executive-says/)  
+  华为将于2025年率先在中国小规模商用L3高速公路驾驶，并启动L4城市街道测试，计划2026年大规模推广。
+- [Xpeng to achieve L3 autonomous driving in H2 2025, CEO says in internal letter](https://cnevpost.com/2025/02/05/xpeng-ceo-internal-letter/)  
+  小鹏CEO何小鹏内部信：2025下半年实现L3全场景自动驾驶，将推动AI汽车进入“iPhone 4时代”。
+- [He Xiaopeng: True L3-Level Autonomous Driving Will Be Launched by the End of 2025](https://www.bitauto.com/global/news/100198043070.html)  
+  何小鹏：2025年底推出真L3级软件与硬件冗余系统，开启L3智能车十年iPhone 4时代，向L4迈进。
+- [Vehicle Automatic Driving System Decade Long Trends, Analysis and Forecast 2025-2034](https://www.datainsightsmarket.com/reports/vehicle-automatic-driving-system-833262)  
+  车辆自动驾驶系统市场报告：2025年达850亿美元，CAGR 18%至2033年，聚焦L1-L4应用与区域分布。
+- [ADAS and Autonomous Car Research Report 2025](https://www.globenewswire.com/news-release/2025/07/10/3113030/0/en/ADAS-and-Autonomous-Car-Research-Report-2025-90-4-of-Global-Car-Sales-Expected-to-Have-Level-1-4-Automated-Driving-Features-by-2030.html)  
+  ADAS与自动驾驶报告：2030年全球90.4%汽车销售将具备L1-L4功能，Mercedes和BMW率先推出L3系统。
+- [Level 3 Autonomous Vehicle Market Size, Share, Forecast, Report, 2030](https://www.marketsandmarkets.com/Market-Reports/level-3-autonomous-vehicle-market-143062223.html)  
+  L3自动驾驶市场预测：2025年29.1万辆，至2035年870万辆，CAGR 40.5%，Zeekr 007率先搭载L3-ready系统。
+- [Gasgoo Daily: Li Auto likely to realize L3 autonomous driving capabilities in 2025](https://autonews.gasgoo.com/china_news/70035547.html)  
+  理想汽车预计2025年通过端到端+VLM系统实现L3能力，DENZA D9 2025款升级智能驾驶功能。
+- [Autonomous Driving: Level 2+ Could Be Long-Term Middle Ground](https://www.eetimes.eu/level-2-could-be-a-long-term-middle-ground/)  
+  L2+或成长期中转站：美国仅内华达/加州限L3部署，中国端到端发展加速，Ford/GM接近L3。
+- [The race begins to make the world’s best self-driving cars](https://www.theguardian.com/technology/2025/nov/10/waymo-baidu-apollo-go-china-elon-musk-tesla)  
+  中美自驾赛：Baidu Apollo Go周25万次乘车，Pony.ai硬件成本远低于Waymo。
+- [Automakers selling cars in China banned from using 'autonomous driving' in ads](https://techcrunch.com/2025/04/17/automakers-selling-cars-in-china-banned-from-using-autonomous-driving-in-ads/)  
+  中国禁止汽车制造商在广告中使用“自动驾驶”、“自驾车”等术语，旨在规范ADAS功能宣传，避免误导消费者。
+- [Meet The Robotaxi Doing 250,000 Rides Per Week That Isn’t Called Waymo](https://www.forbes.com/sites/johnkoetsier/2025/11/03/meet-the-chinese-robotaxi-doing-250000-rides-per-month/)  
+  Apollo Go每周完成25万次无人驾驶行程，计划全球扩展，与Waymo直接竞争。
+- [Lyft and Baidu in Deal to Use Chinese Driverless Cars in Europe](https://www.nytimes.com/2025/08/04/business/lyft-baidu-driverless-cars-europe.html)  
+  Lyft与Baidu合作，在德国和英国部署中国组装的无人驾驶汽车，预计2026年初启动服务。
+- [Tesla Moves One Step Closer to Self-Driving Cars in China](https://www.nytimes.com/2025/02/25/business/china-tesla-self-driving-musk.html)  
+  Tesla在中国城市街道上启用Autopilot高级功能，支持车道变更等操作，但仍需驾驶员监督。
+- [China Bans “Autonomous” — So What Should Driverless-ish Cars Be Called?](https://www.forbes.com/sites/nicolekobie/2025/04/17/china-bans-autonomous---so-what-should-driverless-ish-cars-be-called/)  
+  中国禁止使用“自动驾驶”和“智能驾驶”等术语，呼吁更准确的ADAS描述以提升安全意识。
+- [Didi reportedly seeking funds for self-driving unit at $5B valuation](https://techcrunch.com/2025/03/04/didi-reportedly-seeking-funds-for-self-driving-unit-at-5b-valuation/)  
+  Didi自动驾驶部门寻求数亿美元融资，估值达50亿美元，计划2025年量产电动Robotaxi。
+</details>
+
+<details>
+<summary>国内</summary>
+
+- [2025年，盘一盘中国智驾的自动驾驶一号位都有谁？](https://zhuanlan.zhihu.com/p/1949398090512573899)  
+  中国智驾领军人物盘点：理想E2E+VLA、小米端到端、蔚来世界模型等2025趋势。
+- [一文看懂2025智能驾驶最新情况与趋势](https://zhuanlan.zhihu.com/p/20011771406)  
+  2025智驾格局：L4下放、L3商用元年、价格下探至15万、传感器标准化。
+- [行业洞察 | 2025 年，“标配智驾” 的时代已经到来？](https://zhuanlan.zhihu.com/p/31887503127)  
+  2025智驾标配时代：长安北斗天枢2.0、小鹏准L3、岚图华为合作。
+- [2025，自动驾驶商业化将迎关键跨越之年](https://36kr.com/p/3135053605240579)  
+  2025自动驾驶商业化突破：传感器提升、算法优化、法规支持。
+- [2025智能化交通与自动驾驶欲往何方](https://chejiahao.autohome.com.cn/info/19049744)  
+  2025智能交通圆桌：L3准入、城市NOA打磨、车路云一体化。
+- [如何评价 CVPR 2025的中稿结果？自动驾驶又该关注哪些方向？](https://zhuanlan.zhihu.com/p/27523046414)  
+  CVPR 2025自动驾驶论文：扩散模型截断策略、多模态轨迹规划。
+- [世界模型会是L3自动驾驶的唯一解吗？2025 技术展望](https://zhuanlan.zhihu.com/p/17486543034)  
+  世界模型+3D Occupancy：OccWorld框架预测场景演变与车辆运动。
+- [2024年自动驾驶行业热点技术盘点](https://zhuanlan.zhihu.com/p/18172218215)  
+  2024热点回顾：城市NOA、Robotaxi、端到端、纯视觉；2025新技术展望。
+- [2025，自动驾驶商业化将迎关键跨越之年](https://chejiahao.autohome.com.cn/info/19085911)  
+  2025突破：FMCW激光雷达、多传感器融合、Robotaxi千台规模。
+- [中国自动驾驶行业发展趋势研究与未来前景预测报告（2025-2032年）](https://www.chinabaogao.com/baogao/202502/741652.html)  
+  2025年L3爆发年，北京条例支持L3销售，渗透率预计达65%，华为、小鹏等推进0接管功能。
+- [我国自动驾驶行业分析：投融资集中产业链中下游 2025年或是L3“爆发年”](https://www.chinabaogao.com/detail/741653.html)  
+  2024投融资达317亿，2025 L3规模落地，小马智行北京高快速路无人测试。
+- [2025智能化交通与自动驾驶欲往何方](https://www.cnenergynews.cn/huizhan/2025/01/23/detail_20250123196199.html)  
+  2025智驾标配时代，L3准入启动，城市NOA覆盖百城，销量超百万辆。
+- [2025 中国智能驾驶商业化发展白皮书：产业发展趋势与用户需求洞察](https://news.qq.com/rain/a/20250414A0509100)  
+  单车智能+车路云协同双路线，端到端架构升级，建议统一事故责任标准。
+- [中国自动驾驶行业发展深度分析与投资前景预测报告（2025-2032年）](https://www.chinabaogao.com/detail/743019.html)  
+  2025投融资活跃，全球市场分布预测，欧洲/中国L3/L4投资热点。
+- [高阶智驾加速渗透 2025年或成商业化关键拐点](https://www.digitalchina.gov.cn/2024/xwzx/szkx/202502/t20250208_4972872.htm)  
+  比亚迪天神之眼覆盖20万以下车型，政策发放1.6万测试牌照，推动智驾平权。
+- [AI大模型助力 自动驾驶渗透率将加速提升](https://www.cfbond.com/2025/01/08/wap_991074850.html)  
+  理想/小米2025 L3目标，特斯拉FSD入华，NOA销量达500万。
+- [2025年的自动驾驶技术有哪些升级？](https://m.ofweek.com/auto/2025-06/ART-8500-7000-30665269.html)  
+  从高速到城市NOA演进，端到端+VLA架构，成本降至5000元内。
+- [自动驾驶，决定生死？](https://news.inewsweek.cn/cover/2025-03-18/24728.shtml)  
+  2025智驾寒武纪爆发，DeepSeek+车企合作，特斯拉FSD落地中国。
+- [中国智驾战力天梯榜（2025年8月）](https://d1ev.com/news/shuju/274510)  
+  2025年8月智驾榜：小鹏/华为/Momenta/理想前四，VLA模型推送，特斯拉FSD逼近L4。
+- [中国智驾战力天梯榜（2025年5月）](https://d1ev.com/news/shuju/269074)  
+  2025年5月智驾榜：小鹏蝉联第一，华为安全分领先，Momenta车位到车位场景扩展。
+- [跨过百亿元智驾研发门槛，拿下L4？](https://epaper.shautonews.com/content/2024-09/29/021266.html)  
+  端到端量产预测：2025年模块化方案上车，蔚小理/华为跨500亿门槛，数据+算力成核心。
+- [L3级智驾元年开启，有望成为下一个车企竞争的焦点](https://zhuanlan.zhihu.com/p/27785348427)  
+  L3元年：比亚迪下放NOA至10-20万级，理想/蔚来/问界渗透率100%，VLA模型跃迁L4。
+- [L3自动驾驶盘点：技术预研、复杂风险与车企加码](https://www.automotiveworld.cn/zh-cn/_6/_0/2025/8/32.html)  
+  北京2025条例支持L3上路，华为ADS 4.0首认证，小鹏XNGP 4.0车位到车位覆盖。
+- [蔚小理的智驾，学不起](https://www.autobit.xyz/news/4068.html)  
+  蔚小理智驾路径：小鹏18月L4目标、理想One Model端到端、蔚来NWM认知驱动，AI变革机遇。
+- [新车规划全面曝光！“蔚小理华米”谁是25年最强新势力？](https://nev.ofweek.com/2025-01/ART-71008-8110-30656187.html)  
+  2025新势力新车：鸿蒙智行十款含尊界S800 L3、理想AI投入、小鹏G6/G9升级纯视觉。
+
+</details>
 
 
 ## 🎓 面试八股文
