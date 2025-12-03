@@ -83,22 +83,21 @@
 ### Courses
 | Course Name | Description |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars) | The most complete 4-course autonomous driving series worldwide |
-| [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) | Best entry course with CARLA simulator project |
-| [Motion Planning for Self-Driving Cars](https://www.coursera.org/learn/motion-planning-self-driving-cars) | Gold standard for planning: A*, Hybrid A*, Lattice, MPC all covered |
-| [Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) | Lane line, traffic light, 3D object detection full pipeline, OpenCV assignments easily ported to C++ |
-| [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) | Kalman filter, particle filter, SLAM basics, matrix assignments naturally suitable for C++ |
-| [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown) | ETH Zürich real-car course, full ROS2 + C++ practice, hardware-software combined |
-| [Multi-Object Tracking for Automotive Systems](https://www.edx.org/learn/engineering/chalmers-university-of-technology-multi-object-tracking-for-automotive-systems) | Chalmers University multi-object tracking course, designed for automotive systems, includes SORT/Kalman fusion |
-| [Autonomous Mobile Robots](https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots) | ETH Zürich mobile robot course, path planning/avoidance algorithms, applicable to autonomous driving localization |
-| [Self-Driving Cars with Duckietown MOOC](https://duckietown.com/self-driving-cars-with-duckietown-mooc/) | ETH Zürich Duckietown hardware MOOC, AI robot autonomous decision-making, free hardware tutorial |
-| [Advanced Kalman Filtering and Sensor Fusion](https://www.classcentral.com/course/udemy-advanced-kalman-filtering-and-sensor-fusion-401323) | Udemy advanced Kalman filter and sensor fusion, focused on autonomous driving C++ simulation |
-| [Sensor Fusion Engineer Nanodegree](https://www.udacity.com/course/sensor-fusion-engineer--nd313) | Udacity sensor fusion program, LiDAR+Radar+Camera fusion, C++ real-time implementation |
-| [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer--nd013) | Udacity full-stack autonomous driving engineer, perception to planning, C++ deployment projects |
-| [AI for Autonomous Vehicles and Robotics](https://www.coursera.org/learn/ai-for-autonomous-vehicles-and-robotics) | University of Michigan AI in autonomous vehicles, includes Kalman filter and decision-making |
-| [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/) | Deep learning computer vision machine learning to build autonomous car, Python but easy to port to C++ |
-| [Autonomous Aerospace Systems](https://www.coursera.org/learn/autonomous-aerospace-systems) | Autonomous aircraft software engineering, path planning/sensor fusion, applicable to autonomous driving |
-
+| [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto 4-course series covering perception, localization, planning, and control |
+| [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) | Introductory course with CARLA simulator projects |
+| [Motion Planning for Self-Driving Cars](https://www.coursera.org/learn/motion-planning-self-driving-cars) | Motion planning course covering A*, Hybrid A*, Lattice Planner, and MPC |
+| [Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) | Visual perception course on lane detection, traffic light detection, and 3D object detection; assignments use OpenCV |
+| [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) | State estimation course covering Kalman filters, particle filters, and basic SLAM; assignments support C++ implementation |
+| [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown) | ETH Zürich course using Duckietown platform, full ROS2 + C++ implementation |
+| [Multi-Object Tracking for Automotive Systems](https://www.edx.org/learn/engineering/chalmers-university-of-technology-multi-object-tracking-for-automotive-systems) | Chalmers University course on multi-object tracking for automotive systems, includes SORT and Kalman filter implementations |
+| [Autonomous Mobile Robots](https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots) | ETH Zürich mobile robotics course covering path planning and obstacle avoidance |
+| [Self-Driving Cars with Duckietown MOOC](https://duckietown.com/self-driving-cars-with-duckietown-mooc/) | Duckietown hardware MOOC with AI-based autonomous decision-making |
+| [Advanced Kalman Filtering and Sensor Fusion](https://www.classcentral.com/course/udemy-advanced-kalman-filtering-and-sensor-fusion-401323) | Udemy course on advanced Kalman filtering and sensor fusion with simulation examples |
+| [Sensor Fusion Engineer Nanodegree](https://www.udacity.com/course/sensor-fusion-engineer--nd313) | Udacity program on LiDAR, radar, and camera fusion with C++ real-time projects |
+| [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer--nd013) | Udacity full-stack autonomous driving program with C++ implementation projects |
+| [AI for Autonomous Vehicles and Robotics](https://www.coursera.org/learn/ai-for-autonomous-vehicles-and-robotics) | University of Michigan course on AI applications in autonomous vehicles |
+| [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/) | Udemy course using deep learning for computer vision and autonomous driving, primarily Python-based |
+| [Autonomous Aerospace Systems](https://www.coursera.org/learn/autonomous-aerospace-systems) | Course on autonomous aircraft systems, covering path planning and sensor fusion applicable to ground vehicles |
 ### Books
 | Book Title | Author | Description |
 |------------------------------------------|-------------------------------------------|-----------------------------------|
