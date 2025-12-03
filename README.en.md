@@ -132,24 +132,55 @@
 | [State Estimation for Robotics](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF9E1F4F7D0D7B8F6D8B8E8F9E0F1A2B/9781107159396ar.pdf/State_Estimation_for_Robotics.pdf) | Timothy D. Barfoot | Clearest modern Kalman/factor graph textbook |
 
 ### Papers
-| Title | Author | Year | Venue | Description |
-|-------|--------|------|-------|-------------|
-| [End-to-End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf) | Mariusz Bojarski et al. (NVIDIA) | 2016 | arXiv | End-to-end pioneering work, C++ real-time deployment classic |
-| [CARLA: An Open Urban Driving Simulator](https://arxiv.org/pdf/1711.03938.pdf) | Alexey Dosovitskiy et al. | 2017 | CoRL | Official CARLA paper, must-read C++ Client API |
-| [Learning by Cheating](https://arxiv.org/pdf/1912.12294.pdf) | Dian Chen, Vladlen Koltun | 2019 | CoRL | Imitation learning + planning ceiling, extremely high C++ engineering reference value |
-| [Planning-oriented Autonomous Driving](https://arxiv.org/pdf/2212.10156.pdf) | Yihan Hu et al. | 2023 | CVPR | Currently hottest planning-oriented framework, official C++ code open-sourced |
-| [TransFuser](https://arxiv.org/pdf/2205.15997.pdf) | Kashyap Chitta et al. | 2022 | CVPR | Transformer multi-sensor fusion SOTA, mainstream C++ deployment |
-| [NEAT: Neural Attention Fields](https://arxiv.org/pdf/2309.04442.pdf) | Kaustubh Mani et al. | 2023 | ICCV | 2023 latest end-to-end, lightweight C++ inference extremely fast |
-| [ST-P3](https://arxiv.org/pdf/2207.07601.pdf) | Shengchao Hu et al. | 2022 | ECCV | Spatio-temporal Transformer, one of the best C++ real-time performance |
-| [Efficient Lidar Odometry for Autonomous Driving](https://arxiv.org/pdf/2209.06828.pdf) | Junha Kim et al. (KAIST) | 2022 | RA-L | Pure LiDAR odometry, lightweight C++ implementation, embedded-friendly |
-| [VISTA 2.0](https://arxiv.org/pdf/2211.00931.pdf) | Alexander Amini et al. | 2022 | IROS | Data-driven simulator, C++ multi-modal sensor simulation |
-| [DriveAdapter](https://arxiv.org/pdf/2309.01243.pdf) | Xiaosong Jia et al. | 2023 | ICCV | Perception-planning decoupled new paradigm, best C++ modular practice |
-| [OpenOccupancy: A Large Scale Benchmark](https://arxiv.org/pdf/2303.03991.pdf) | Xiaofeng Wang, Zheng Zhu et al. | 2023 | ICCV | Largest open-source Occupancy dataset, official C++ benchmark code |
+| Title | Authors | Year | Description |
+|-------------------------------------------------------------|----------------------------|------|-----------------------------------------------------|
+| [DiffSemanticFusion: Semantic Raster BEV Fusion for Autonomous Driving via Online HD Map Diffusion](https://arxiv.org/pdf/2508.01778.pdf) | Sun Peng et al. | 2025 | Semantic raster + online HD map diffusion fusion, C++ real-time BEV implementation |
+| [ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](https://arxiv.org/pdf/2508.11428.pdf) | Wang Yichen et al. | 2025 | Unified VLM + world model imagination-planning loop, C++ action generation module |
+| [Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.09800.pdf) | Haochen Liu et al. | 2025 | RL + self-supervised refinement for end-to-end driving, C++ online correction module |
+| [UncAD: Towards Safe End-to-End Autonomous Driving via Online Map Uncertainty](https://arxiv.org/pdf/2504.12826.pdf) | Pengxuan Yang et al. | 2025 | Online map uncertainty modeling, C++ safety-constrained planning |
+| [M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction](https://arxiv.org/pdf/2503.18100.pdf) | Xuesong Chen et al. | 2025 | Multimodal multi-task unified 3D perception network, C++ efficient shared backbone |
+| [Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning](https://arxiv.org/pdf/2503.14182.pdf) | Bozhou Zhang et al. | 2025 | Historical prediction for end-to-end driving with spatio-temporal fusion, C++ multi-step query |
+| [MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving](https://arxiv.org/pdf/2504.00379.pdf) | Zhang Yuxuan et al. | 2025 | Marker-based prompt learning to enhance AD-VQA spatial understanding, C++ coordinate marker inference |
+| [Adaptive Field Effect Planner for Safe Interactive Autonomous Driving on Curved Roads](https://arxiv.org/pdf/2504.14747.pdf) | Li Chen et al. | 2025 | Dynamic risk field + improved PSO planner, C++ safe curved-road interaction |
+| [Multi-Agent Autonomous Driving Systems with Large Language Models](https://arxiv.org/pdf/2502.16804.pdf) | Yaozu Wu et al. | 2025 | Survey on multi-agent LLM autonomous driving, involving C++ edge-cloud collaboration |
+| [The Role of World Models in Shaping Autonomous Driving](https://arxiv.org/pdf/2502.10498.pdf) | Hang Wang et al. | 2025 | Survey on world models in autonomous driving, including C++ point-cloud pre-training |
+| [DiffusionDrive](https://arxiv.org/pdf/2411.15139.pdf) | Bencheng Liao et al. | 2025 | Truncated diffusion model for end-to-end driving, C++ real-time inference |
+| [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/pdf/2312.14150.pdf) | Chonghao Sima et al. | 2025 | Graph-based VQA for driving understanding, open-source C++ interaction module |
+| [VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision](https://arxiv.org/pdf/2412.14446.pdf) | Yi Xu et al. | 2024 | End-to-end autonomous driving via vision-language model supervision, C++ inference enhancement |
+| [World knowledge-enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving](https://arxiv.org/pdf/2412.06324.pdf) | Mingliang Zhai et al. | 2024 | World-knowledge enhanced instruction-guided reasoning, C++ multi-view video input |
+| [LaVida Drive: Vision-Text Interaction VLM with Token Selection, Recovery and Enhancement](https://arxiv.org/pdf/2411.12980.pdf) | Siwen Jiao et al. | 2024 | Vision-text interactive VLM with token selection/recovery, C++ high-resolution input |
+| [GAIA-1: A Generative World Model](https://arxiv.org/pdf/2309.17080.pdf) | Aleksandr Petiushko et al. | 2024 | Generative world model, open-source C++ backend |
+| [VADv2](https://arxiv.org/pdf/2402.13243.pdf) | Xiaoxiao Long et al. | 2024 | Probabilistic planning end-to-end framework, C++ closed-loop implementation |
+| [CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/pdf/2408.10845.pdf) | Dong-Hoon Kim et al. | 2024 | 80+ hours VLA driving dataset, C++ multi-modal trajectory annotation tools |
+| [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577.pdf) | Li Jianxiong et al. | 2024 | Vision-language direct planning framework, C++ end-to-end trajectory output |
+| [SEAL: Towards Safe Autonomous Driving via Skill-Enabled Adversary Learning](https://arxiv.org/pdf/2409.10320.pdf) | Benjamin Stoler et al. | 2024 | Skill-enabled adversarial learning for closed-loop scenario generation, C++ realistic perturbation |
+| [DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences](https://arxiv.org/pdf/2406.03008.pdf) | Yidong Huang et al. | 2024 | Enhancing LLM agents with embodied and social experience, C++ long-horizon navigation |
+| [Online Analytic Exemplar-Free Continual Learning with Large Models for Imbalanced Autonomous Driving Task](https://arxiv.org/pdf/2405.17779.pdf) | Huiping Zhuang et al. | 2024 | Online exemplar-free continual learning for imbalanced tasks, C++ ridge regression classifier |
+| [AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving](https://arxiv.org/pdf/2405.07865.pdf) | Daniel Bogdoll et al. | 2024 | Multimodal anomaly detection benchmark, C++ voxel ground truth |
+| [Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior](https://arxiv.org/pdf/2405.05885.pdf) | Ziang Guo et al. | 2024 | VLM-based assistant with human-like behavior in complex scenes, C++ ROS2 pipeline |
+| [Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System](https://arxiv.org/pdf/2404.09496.pdf) | Genjia Liu et al. | 2024 | Collaborative simulation platform and end-to-end system, C++ information sharing |
+| [End-to-End Autonomous Driving through V2X Cooperation](https://arxiv.org/pdf/2404.00717.pdf) | Haibao Yu et al. | 2024 | End-to-end driving via V2X cooperation, C++ unified network |
+| [AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving](https://arxiv.org/pdf/2403.17373.pdf) | Mingfu Liang et al. | 2024 | Automatic data engine for object detection, C++ annotation pipeline |
+| [Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap](https://arxiv.org/pdf/2403.16092.pdf) | Carl Lindström et al. | 2024 | Closing real-to-simulation gap with NeRFs, C++ dynamic data synthesis |
+| [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf) | Xiaoyu Tian et al. | 2024 | Convergence of autonomous driving and large vision-language models, C++ CoT module |
+| [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/pdf/2402.05746.pdf) | Yuxi Wei et al. | 2024 | Editable scene simulation via collaborative LLM agents, C++ natural-language command |
+| [Planning-oriented Autonomous Driving (UniAD)](https://arxiv.org/pdf/2212.10156.pdf) | Yihan Hu et al. | 2023 | Planning-oriented end-to-end framework, official C++ full pipeline |
+| [OpenOccupancy: A Large Scale Benchmark](https://arxiv.org/pdf/2303.03991.pdf) | Xiaofeng Wang et al. | 2023 | Large-scale occupancy benchmark, official C++ codebase |
+| [DriveAdapter](https://arxiv.org/pdf/2309.01243.pdf) | Xiaosong Jia et al. | 2023 | Perception-planning decoupled paradigm, C++ modular implementation |
+| [NEAT: Neural Attention Fields](https://arxiv.org/pdf/2309.04442.pdf) | Kaustubh Mani et al. | 2023 | Lightweight end-to-end model, C++ inference implementation |
+| [NeuRAD: Neural Rendering for Autonomous Driving](https://arxiv.org/pdf/2311.15260.pdf) | Adam Tonderski et al. | 2023 | Neural rendering for autonomous driving, C++ dynamic NeRF |
+| [TransFuser](https://arxiv.org/pdf/2205.15997.pdf) | Kashyap Chitta et al. | 2022 | Transformer multi-sensor fusion end-to-end method, C++ deployment |
+| [ST-P3](https://arxiv.org/pdf/2207.07601.pdf) | Shengchao Hu et al. | 2022 | Spatio-temporal Transformer for prediction and planning, C++ real-time implementation |
+| [Efficient Lidar Odometry for Autonomous Driving](https://arxiv.org/pdf/2209.06828.pdf) | Junha Kim et al. | 2022 | Pure LiDAR odometry, lightweight C++ implementation suitable for embedded systems |
+| [VISTA 2.0](https://arxiv.org/pdf/2211.00931.pdf) | Alexander Amini et al. | 2022 | Data-driven simulator, C++ multi-modal sensor simulation |
+| [BEVFormer](https://arxiv.org/pdf/2203.17270.pdf) | Zhiqi Li et al. | 2022 | BEV-space multi-camera perception framework, common C++ deployment |
+| [FAST-LIO2](https://arxiv.org/pdf/2107.06829.pdf) | Wei Xu et al. | 2021 | Tightly-coupled LiDAR-inertial odometry, pure C++ implementation |
+| [Learning by Cheating](https://arxiv.org/pdf/1912.12294.pdf) | Dian Chen et al. | 2019 | Privileged + imitation learning combination, C++ engineering reference |
+| [CARLA: An Open Urban Driving Simulator](https://arxiv.org/pdf/1711.03938.pdf) | Alexey Dosovitskiy et al. | 2017 | Open-source urban driving simulator, official C++ Client API |
+| [End-to-End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf) | Mariusz Bojarski et al. | 2016 | Early representative work on end-to-end autonomous driving, classic C++ real-time deployment |
 
 
 ## 📊 Datasets
-
-
   
 - [KITTI](https://www.cvlibs.net/datasets/kitti/raw_data.php)  
   Classic 3D perception benchmark for 3D object detection, tracking, and odometry
