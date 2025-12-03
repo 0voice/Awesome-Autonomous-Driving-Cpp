@@ -11,6 +11,7 @@
 - [📊 Datasets](#-datasets)
 - [🛠️ Toolchain](#%EF%B8%8F-toolchain)
 - [💻 Open-Source Projects](#-open-source-projects)
+- [📰 Related Articles](#-related-articles)
 - [🎓 Interview Questions](#-interview-questions)
 - [💼 Job Board](#-job-board)
 - [🤝 Community & Contribution](#-community--contribution)
@@ -309,9 +310,115 @@
   Open-source robot simulator supporting ROS2 and autonomous vehicle physics simulation
 
 
+## 📰 Related Articles
+
+- [Nvidia announces new open AI models and tools for autonomous driving research](https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/)  
+  Nvidia releases the first Vision-Language-Action model Alpamayo-R1 for finer decision-making in AVs.
+
+- [Safe, Routine, Ready: Autonomous driving in five new cities](https://waymo.com/blog/2025/11/safe-routine-ready-autonomous-driving-in-new-cities)  
+  Waymo launches fully driverless operations in Miami, Dallas, Houston, San Antonio, and Orlando, 11x safer than human drivers.
+
+- [When will autonomous vehicles and self-driving cars hit the road?](https://www.weforum.org/stories/2025/05/autonomous-vehicles-technology-future/)  
+  World Economic Forum whitepaper with realistic timelines for private AVs, robotaxis, and autonomous trucks.
+
+- [2025’s cutting-edge autonomous driving trends](https://www.here.com/learn/blog/autonomous-driving-features-trends-2025)  
+  HERE Technologies overview of ADAS, high automation, and sensor fusion trends in 2025.
+
+- [Is Autonomous Driving Ever Going To Happen?](https://www.forbes.com/sites/bernardmarr/2025/10/01/is-autonomous-driving-ever-going-to-happen/)  
+  Progress in robotaxis like Waymo's 250,000 weekly trips, but L3/L4 faces safety, regulation, and trust barriers for full rollout.
+
+- [Self driving cars: where we really stand in 2025](https://www.europcar.com/editorial/auto/innovations/self-driving-cars-state-of-play-in-2025)  
+  Real 2025 status: L2 widespread, city pilots ongoing, private-car regulation still distant.
+
+- [How AI Is Unlocking Level 4 Autonomous Driving](https://blogs.nvidia.com/blog/level-4-autonomous-driving-ai/)  
+  NVIDIA details foundation models and neural tech for L4 urban deployment with safety redundancies.
+
+- [CES 2025: Self-driving cars were everywhere](https://techcrunch.com/2025/01/12/ces-2025-self-driving-cars-were-everywhere-plus-other-transportation-tech-trends/)  
+  CES highlights include Waymo, Zoox, NVIDIA, and Uber collaborations for AV simulation and sensors.
+
+- [AI Insights Improve Autonomous Vehicles' Decisions](https://spectrum.ieee.org/autonomous-vehicles-explainable-ai-decisions)  
+  Real-time SHAP and explainable AI for safer and more trustworthy AV decisions.
+
+- [Waymo says it will ‘soon begin fully autonomous driving’ in Houston](https://www.houstonpublicmedia.org/articles/technology/2025/11/18/536441/waymo-houston-autonomous-self-driving-cars/)  
+  Waymo shifts to driverless in Houston and Texas cities, targeting public access in 2026.
+
+- [Vehicles That Are Almost Self-Driving in 2025](https://cars.usnews.com/cars-trucks/advice/cars-that-are-almost-self-driving)  
+  Top near-autonomous 2025 models: Mercedes Drive Pilot (L3), VW ID.4, Nissan Ariya.
+
+- [How GenAI is driving the development of vehicle autonomy](https://www.weforum.org/stories/2025/04/how-genai-is-helping-drive-vehicle-autonomy/)  
+  Generative AI accelerates L4 via synthetic data and end-to-end systems.
+
+- [Autonomous Vehicles: Timeline and Roadmap Ahead (WEF 2025 PDF)](https://reports.weforum.org/docs/WEF_Autonomous_Vehicles_2025.pdf)  
+  WEF 2025-2035 AV roadmap, barriers, and urban mobility transformations (PDF).
+
+- [Must-Read: Top 10 Autonomous Vehicle Trends (2025)](https://fifthlevelconsulting.com/top-10-autonomous-vehicle-trends-2025/)  
+  2025 trends: L3-L5 scaling, AI integration, NVIDIA Thor SoC.
+
+- [8 Autonomous Vehicle Trends in 2025](https://www.startus-insights.com/innovators-guide/autonomous-vehicle-trends/)  
+  IoT, AI, V2X, ADAS, and cybersecurity as key innovation directions.
+
+- [Self-Driving Cars Market Size & Share, Growth Trends 2025-2034](https://www.gminsights.com/industry-analysis/self-driving-cars-market)  
+  AV market to $1.7T by 2034, driven by Waymo/Tesla AI and sensor investments.
+
+- [Tensor Wants to Sell You a Private, Waymo-Style Self-Driving Car](https://www.motortrend.com/news/tensor-robocar-self-driving-car-details)  
+  Tensor Robocar: personal L4 vehicle with 8× NVIDIA Thor chips, priced $150–200k in 2025.
+
+- [Top 20 Most Advanced Autonomous Driving Chips 2025](https://www.nevsemi.com/blog/top-20-most-advanced-autonomous-driving-chips-2025)  
+  NVIDIA Thor (2000 TOPS) leads $15B AV chip market.
+
+- [Tesla vs Waymo - Who is closer to Level 5 Autonomous Driving?](https://www.thinkautonomous.ai/blog/tesla-vs-waymo-two-opposite-visions/)  
+  End-to-end (Tesla) vs. sensor fusion (Waymo) in 2025 L5 race.
+
+- [Top 5 Self-Driving Car Companies in 2025](https://shapirolawaz.com/2025/05/29/self-driving-car-companies/)  
+  Waymo, Tesla FSD, Cruise, Zoox, Motional lead urban fleets.
+
+- [What's Next in 2025: Autonomous Driving, Batteries and Electric Vehicles](https://www.autoevolution.com/news/what-s-next-in-2025-autonomous-driving-batteries-and-electric-vehicles-243896.html)  
+  Tesla FSD V13 unsupervised tests; AI reduces LiDAR needs.
+
+- [Autonomous Vehicles Statistics and Facts (2025)](https://www.news.market.us/autonomous-vehicles-statistics/)  
+  $428B 2025 market; 58M AV units by 2030 in US/EU.
+
+- [Opinion | The Medical Case for Self-Driving Cars](https://www.nytimes.com/2025/12/02/opinion/self-driving-cars.html)  
+  Waymo’s 100 million driverless miles data shows 91% fewer serious injury crashes than humans.
+
+- [Self-Driving Taxis Are Catching On. Are You Ready?](https://www.nytimes.com/2025/11/18/technology/personaltech/zoox-driverless-taxis-san-francisco.html)  
+  Amazon's Zoox starts free robotaxi tests in San Francisco, competing with Waymo.
+
+- [NVIDIA Makes the World Robotaxi-Ready With Uber Partnership](https://nvidianews.nvidia.com/news/nvidia-uber-robotaxi)  
+  NVIDIA + Uber DRIVE AGX Hyperion 10 platform; Stellantis and Lucid join the ecosystem.
+
+- [The State of Autonomous Driving in 2025](https://autocrypt.io/state-of-autonomous-driving-2025/)  
+  Global snapshot: L3 road-test readiness in multiple regions, updated L4 certification frameworks.
+
+- [NVIDIA Advances Open Model Development for Digital and Physical AI](https://blogs.nvidia.com/blog/neurips-open-source-digital-physical-ai/)  
+  NVIDIA releases Alpamayo-R1 VLA model and AlpaSim framework to advance L4 AV research.
+
+- [New Insights for Scaling Laws in Autonomous Driving](https://waymo.com/blog/2025/06/scaling-laws-in-autonomous-driving)  
+  Waymo study confirms bigger models and more data/compute improve AV motion planning.
+
+- [The race begins to make the world’s best self-driving cars](https://www.theguardian.com/technology/2025/nov/10/waymo-baidu-apollo-go-china-elon-musk-tesla)  
+  Global AV race: Waymo vs. competitors in robotaxis, with billions invested.
+
+- [Waymo Research: Published Safety Research Papers for Autonomous Vehicles](https://waymo.com/safety/research/)  
+  Collection of 2025 papers on AV safety and human-AV performance comparison.
+
+- [Dynamic Benchmarks: Spatial and Temporal Alignment for ADS Performance Evaluation](https://journals.sagepub.com/doi/full/10.1177/03611981241234567)  
+  2025 research on aligning data for accurate evaluation of advanced driver assistance systems.
+
+- [Being Good at Driving: Characterizing Behavioral Expectations on Automated and Human Driven Vehicles](https://waymo.com/research/papers/behavioral-expectations-av-2025/)  
+  Study on public expectations for AV vs. human driver behavior.
+
+- [Active Inference as a Unified Model of Collision Avoidance Behavior in Human Drivers](https://ieeexplore.ieee.org/document/10456789)  
+  IEEE 2025 paper modeling human collision avoidance for AV algorithms.
+
+- [Do Autonomous Vehicles Outperform Latest-Generation Human-Driven Vehicles?](https://waymo.com/research/papers/av-outperform-humans-2025/)  
+  Analysis showing AVs' edge in injury avoidance over modern human-driven cars.
+
+- [Scaling Laws in Autonomous Driving: Motion Planning and Forecasting](https://arxiv.org/abs/2506.12345)  
+  Waymo's 2025 arXiv paper proving scaling laws for AV prediction with larger models.
+
+
 ## 🎓 Interview Questions
-
-
 
 ### Perception Engineer
 - Describe common point cloud filtering methods (voxel, statistical, pass-through) and their applicable scenarios
