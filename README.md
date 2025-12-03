@@ -141,22 +141,52 @@
 | [State Estimation for Robotics](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF9E1F4F7D0D7B8F6D8B8E8F9E0F1A2B/9781107159396ar.pdf/State_Estimation_for_Robotics.pdf) | Timothy D. Barfoot | 现代卡尔曼/因子图最清晰教材                   | 
 
 ### 论文
-| 论文标题                                                                                             | 作者                                           | 年份 | 会议/期刊 | 简介                              |
-|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------|------|-----------|-----------------------------------------------------|
-| [End-to-End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf)                                  | Mariusz Bojarski et al. (NVIDIA)              | 2016 | arXiv     | 端到端开山之作，C++实时部署经典案例                 |
-| [CARLA: An Open Urban Driving Simulator](https://arxiv.org/pdf/1711.03938.pdf)                                     | Alexey Dosovitskiy et al.                     | 2017 | CoRL      | CARLA官方论文，C++ Client API必读                   |
-| [Learning by Cheating](https://arxiv.org/pdf/1912.12294.pdf)                                                       | Dian Chen, Vladlen Koltun                     | 2019 | CoRL      | 模仿学习+规划天花板，C++工程实现参考价值极高         |
-| [Planning-oriented Autonomous Driving](https://arxiv.org/pdf/2212.10156.pdf)                                       | Yihan Hu et al.                               | 2023 | CVPR      | 目前最火的规划导向框架，官方C++代码已开源           |
-| [TransFuser](https://arxiv.org/pdf/2205.15997.pdf)                                                                 | Kashyap Chitta et al.                         | 2022 | CVPR      | Transformer多传感器融合SOTA，C++部署主流            |
-| [NEAT: Neural Attention Fields](https://arxiv.org/pdf/2309.04442.pdf)                                             | Kaustubh Mani et al.                          | 2023 | ICCV      | 2023最新端到端，轻量C++推理极快                     |
-| [ST-P3](https://arxiv.org/pdf/2207.07601.pdf)                                                                       | Shengchao Hu et al.                           | 2022 | ECCV      | 时空Transformer，C++实时性最强之一                  |
-| [Efficient Lidar Odometry for Autonomous Driving](https://arxiv.org/pdf/2209.06828.pdf)                           | Junha Kim et al. (KAIST)                      | 2022 | RA-L      | 纯激光里程计，轻量C++实现，嵌入式友好               |
-| [VISTA 2.0](https://arxiv.org/pdf/2211.00931.pdf)                                                                  | Alexander Amini et al.                        | 2022 | IROS      | 数据驱动仿真器，C++多模态传感器模拟                 |
-| [DriveAdapter](https://arxiv.org/pdf/2309.01243.pdf)                                                              | Xiaosong Jia et al.                           | 2023 | ICCV      | 感知-规划解耦新范式，C++模块化最佳实践              |
-| [OpenOccupancy: A Large Scale Benchmark](https://arxiv.org/pdf/2303.03991.pdf)                                     | Xiaofeng Wang, Zheng Zhu et al.               | 2023 | ICCV      | 最大开源Occupancy数据集，官方C++基准代码            |
-
-
-
+| 论文标题 | 作者 | 年份 | 简介 |
+|-------------------------------------------------------------|----------------------------|------|-----------------------------------------------------|
+| [DiffSemanticFusion: Semantic Raster BEV Fusion for Autonomous Driving via Online HD Map Diffusion](https://arxiv.org/pdf/2508.01778.pdf) | Sun Peng et al. | 2025 | 语义光栅+在线HD地图扩散融合，C++实时BEV融合实现 |
+| [ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](https://arxiv.org/pdf/2508.11428.pdf) | Wang Yichen et al. | 2025 | VLM+世界模型统一想象-规划闭环，C++动作生成模块 |
+| [Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.09800.pdf) | Haochen Liu et al. | 2025 | RL+自监督精炼端到端驾驶，C++在线修正模块 |
+| [UncAD: Towards Safe End-to-End Autonomous Driving via Online Map Uncertainty](https://arxiv.org/pdf/2504.12826.pdf) | Pengxuan Yang et al. | 2025 | 在线地图不确定性建模，C++安全约束规划 |
+| [M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction](https://arxiv.org/pdf/2503.18100.pdf) | Xuesong Chen et al. | 2025 | 多模态多任务3D感知统一网络，C++高效共享骨干 |
+| [Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning](https://arxiv.org/pdf/2503.14182.pdf) | Bozhou Zhang et al. | 2025 | 历史预测端到端驾驶时空融合，C++多步查询 |
+| [MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving](https://arxiv.org/pdf/2504.00379.pdf) | Zhang Yuxuan et al. | 2025 | 视觉标记提示学习提升AD-VQA空间理解，C++坐标标记推理 |
+| [Adaptive Field Effect Planner for Safe Interactive Autonomous Driving on Curved Roads](https://arxiv.org/pdf/2504.14747.pdf) | Li Chen et al. | 2025 | 动态风险场+改进粒子群规划，C++弯道交互安全实现 |
+| [Multi-Agent Autonomous Driving Systems with Large Language Models](https://arxiv.org/pdf/2502.16804.pdf) | Yaozu Wu et al. | 2025 | 多代理LLM自动驾驶综述，涉及C++边缘-云协作 |
+| [The Role of World Models in Shaping Autonomous Driving](https://arxiv.org/pdf/2502.10498.pdf) | Hang Wang et al. | 2025 | 世界模型在自动驾驶中的综述，包含C++点云预训练方案 |
+| [DiffusionDrive](https://arxiv.org/pdf/2411.15139.pdf) | Bencheng Liao et al. | 2025 | 截断扩散模型端到端驾驶，C++实时推理实现 |
+| [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/pdf/2312.14150.pdf) | Chonghao Sima et al. | 2025 | 基于图结构的VQA驾驶理解方法，C++交互模块开源 |
+| [VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision](https://arxiv.org/pdf/2412.14446.pdf) | Yi Xu et al. | 2024 | 视觉语言模型监督端到端驾驶，C++推理增强 |
+| [World knowledge-enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving](https://arxiv.org/pdf/2412.06324.pdf) | Mingliang Zhai et al. | 2024 | 世界知识增强指令交互推理，C++多视图视频输入 |
+| [LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement](https://arxiv.org/pdf/2411.12980.pdf) | Siwen Jiao et al. | 2024 | 视觉文本交互VLM令牌选择恢复增强，C++高分辨率输入 |
+| [GAIA-1: A Generative World Model](https://arxiv.org/pdf/2309.17080.pdf) | Aleksandr Petiushko et al. | 2024 | 生成式世界模型，C++后端开源 |
+| [VADv2](https://arxiv.org/pdf/2402.13243.pdf) | Xiaoxiao Long et al. | 2024 | 概率规划端到端框架，C++闭环实现 |
+| [CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/pdf/2408.10845.pdf) | Dong-Hoon Kim et al. | 2024 | 80+小时VLA驾驶数据集，C++多模态轨迹标注工具 |
+| [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577.pdf) | Li Jianxiong et al. | 2024 | 视觉-语言直接规划框架，C++端到端轨迹输出 |
+| [SEAL: Towards Safe Autonomous Driving via Skill-Enabled Adversary Learning](https://arxiv.org/pdf/2409.10320.pdf) | Benjamin Stoler et al. | 2024 | 技能启用对抗学习闭环场景生成，C++真实扰动 |
+| [DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences](https://arxiv.org/pdf/2406.03008.pdf) | Yidong Huang et al. | 2024 | LLM代理具身社交经验增强，C++长时导航 |
+| [Online Analytic Exemplar-Free Continual Learning with Large Models for Imbalanced Autonomous Driving Task](https://arxiv.org/pdf/2405.17779.pdf) | Huiping Zhuang et al. | 2024 | 在线无样本持续学习不平衡任务，C++岭回归分类 |
+| [AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving](https://arxiv.org/pdf/2405.07865.pdf) | Daniel Bogdoll et al. | 2024 | 多模态异常检测基准，C++体素地面真相 |
+| [Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior](https://arxiv.org/pdf/2405.05885.pdf) | Ziang Guo et al. | 2024 | VLM人类行为理解复杂路场景，C++ROS2管道 |
+| [Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System](https://arxiv.org/pdf/2404.09496.pdf) | Genjia Liu et al. | 2024 | 协作自动驾驶模拟平台端到端系统，C++信息共享 |
+| [End-to-End Autonomous Driving through V2X Cooperation](https://arxiv.org/pdf/2404.00717.pdf) | Haibao Yu et al. | 2024 | V2X合作端到端驾驶，C++统一网络 |
+| [AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving](https://arxiv.org/pdf/2403.17373.pdf) | Mingfu Liang et al. | 2024 | 自动数据引擎物体检测，C++标注管道 |
+| [Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap](https://arxiv.org/pdf/2403.16092.pdf) | Carl Lindström et al. | 2024 | NeRF真实模拟差距闭合，C++动态数据合成 |
+| [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf) | Xiaoyu Tian et al. | 2024 | 自动驾驶视觉语言大模型融合，C++CoT模块 |
+| [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/pdf/2402.05746.pdf) | Yuxi Wei et al. | 2024 | 协作LLM代理可编辑场景模拟，C++自然语言命令 |
+| [Planning-oriented Autonomous Driving (UniAD)](https://arxiv.org/pdf/2212.10156.pdf) | Yihan Hu et al. | 2023 | 规划导向端到端框架，官方提供C++完整pipeline |
+| [OpenOccupancy: A Large Scale Benchmark](https://arxiv.org/pdf/2303.03991.pdf) | Xiaofeng Wang et al. | 2023 | 大规模Occupancy基准，官方C++代码 |
+| [DriveAdapter](https://arxiv.org/pdf/2309.01243.pdf) | Xiaosong Jia et al. | 2023 | 感知-规划解耦方案，C++模块化实现 |
+| [NEAT: Neural Attention Fields](https://arxiv.org/pdf/2309.04442.pdf) | Kaustubh Mani et al. | 2023 | 轻量端到端模型，C++推理实现 |
+| [NeuRAD: Neural Rendering for Autonomous Driving](https://arxiv.org/pdf/2311.15260.pdf) | Adam Tonderski et al. | 2023 | 神经渲染自动驾驶，C++动态NeRF |
+| [TransFuser](https://arxiv.org/pdf/2205.15997.pdf) | Kashyap Chitta et al. | 2022 | Transformer多传感器融合端到端方法，C++部署实现 |
+| [ST-P3](https://arxiv.org/pdf/2207.07601.pdf) | Shengchao Hu et al. | 2022 | 时空Transformer预测与规划方法，C++实时实现 |
+| [Efficient Lidar Odometry for Autonomous Driving](https://arxiv.org/pdf/2209.06828.pdf) | Junha Kim et al. | 2022 | 纯激光里程计，轻量C++实现，适合嵌入式 |
+| [VISTA 2.0](https://arxiv.org/pdf/2211.00931.pdf) | Alexander Amini et al. | 2022 | 数据驱动仿真器，C++多模态传感器模拟 |
+| [BEVFormer](https://arxiv.org/pdf/2203.17270.pdf) | Zhiqi Li et al. | 2022 | BEV空间多相机感知框架，C++部署常见 |
+| [FAST-LIO2](https://arxiv.org/pdf/2107.06829.pdf) | Wei Xu et al. | 2021 | 紧耦合激光-惯性里程计，纯C++实现 |
+| [Learning by Cheating](https://arxiv.org/pdf/1912.12294.pdf) | Dian Chen et al. | 2019 | 特权学习+模仿学习结合方案，C++工程实现参考 |
+| [CARLA: An Open Urban Driving Simulator](https://arxiv.org/pdf/1711.03938.pdf) | Alexey Dosovitskiy et al. | 2017 | 开源城市驾驶仿真器，官方C++ Client API |
+| [End-to-End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf) | Mariusz Bojarski et al. | 2016 | 端到端自动驾驶早期代表工作，C++实时部署案例 |
 
 ## 📊 数据集
 
