@@ -612,7 +612,7 @@
 - [在多传感器融合系统中，如何处理时间同步问题？对比硬件同步和软件同步方案](interview_questions/README.md#在多传感器融合系统中如何处理时间同步问题对比硬件同步和软件同步方案)
 - [实现基于卡尔曼滤波的传感器数据融合，融合毫米波雷达和摄像头的目标位置信息](interview_questions/README.md#实现基于卡尔曼滤波的传感器数据融合融合毫米波雷达和摄像头的目标位置信息)
 
-### 决策算法岗位
+### 决策规划算法岗位
 - [对比Dijkstra、A*、RRT*算法在自动驾驶路径规划中的优缺点和适用场景](interview_questions/README.md#对比dijkstraarrt算法在自动驾驶路径规划中的优缺点和适用场景)
 - [设计高速公路自动换道决策算法，考虑前后车距离、速度差和安全间隙](interview_questions/README.md#设计高速公路自动换道决策算法考虑前后车距离速度差和安全间隙)
 - [实现一个轨迹规划器，生成平滑的车辆轨迹（曲率连续），满足车辆动力学约束](interview_questions/README.md#实现一个轨迹规划器生成平滑的车辆轨迹曲率连续满足车辆动力学约束)
@@ -622,8 +622,6 @@
 - [设计车辆意图预测模型，基于历史轨迹和周围环境预测其他车辆的行驶意图](interview_questions/README.md#设计车辆意图预测模型基于历史轨迹和周围环境预测其他车辆的行驶意图)
 - [如何将交通规则（如让行、限速）融入决策系统？设计规则引擎](interview_questions/README.md#如何将交通规则如让行限速融入决策系统设计规则引擎)
 - [在多智能体场景中，如何处理其他车辆不遵守交通规则的情况？设计鲁棒决策策略](interview_questions/README.md#在多智能体场景中如何处理其他车辆不遵守交通规则的情况设计鲁棒决策策略)
-
-### 规划算法岗位 
 - [Hybrid A* 与 Reeds-Shepp 曲线对比，在停车/窄路场景下各自优劣](https://github.com/0voice/Autonomous-Driving-Cpp/blob/main/interview_questions/README.md#hybrid-a-与-reeds-shepp曲线对比在停车窄路场景下各自优劣)
 - [Lattice Planner 核心原理，如何生成时空格子并动态规划最优轨迹](https://github.com/0voice/Autonomous-Driving-Cpp/blob/main/interview_questions/README.md#lattice-planner-核心原理如何生成时空格子并动态规划最优轨迹)
 - [EM Planner 原理详解，如何把规划问题变成带约束的优化问题](https://github.com/0voice/Autonomous-Driving-Cpp/blob/main/interview_questions/README.md#em-planner-原理详解如何把规划问题变成带约束的优化问题)
