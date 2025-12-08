@@ -139,7 +139,7 @@
 | [Self-Driving Cars: Are We Ready?](https://assets.kpmg.com/content/dam/kpmg/pdf/2013/10/self-driving-cars-are-we-ready.pdf) | KPMG | Classic industry report |
 | [Self-Driving Car Autonomous System Overview](https://dadun.unav.edu/bitstream/10171/67589/1/2022.06.01%20TFG%20Daniel%20Casado%20Herraez.pdf) | Daniel Casado Herráez | Spanish university graduation project, C++ hardware interface real case |
 | [Planning Algorithms](http://planning.cs.uiuc.edu/planning.pdf) | Steven M. LaValle | Absolute classic in path planning field, A*/RRT/PRM all included |
-| [Probabilistic Robotics](https://www.probabilistic-robotics.org/Probabilistic_Robotics.pdf) | Sebastian Thrun et al. | Bible of probabilistic robotics, must-read for localization/SLAM |
+| [Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf) | Sebastian Thrun et al. | Bible of probabilistic robotics, must-read for localization/SLAM |
 | [Multiple View Geometry in Computer Vision (2nd Edition)](http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf) | Hartley & Zisserman | God-tier book for multi-view geometry, essential for visual SLAM |
 | [State Estimation for Robotics](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF9E1F4F7D0D7B8F6D8B8E8F9E0F1A2B/9781107159396ar.pdf/State_Estimation_for_Robotics.pdf) | Timothy D. Barfoot | Clearest modern Kalman/factor graph textbook |
 
