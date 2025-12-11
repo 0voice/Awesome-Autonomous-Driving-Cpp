@@ -102,106 +102,193 @@
 
 ### 课程
 
-| 课程名称 | 简介 |
-|--------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars) | 多伦多大学四门套课，覆盖感知、定位、规划、控制全栈 |
-| [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) | 自动驾驶入门课，使用CARLA模拟器 |
-| [Motion Planning for Self-Driving Cars](https://www.coursera.org/learn/motion-planning-self-driving-cars) | 运动规划课程，包含A*、Hybrid A*、Lattice、MPC等算法 |
-| [Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) | 视觉感知课程，车道线、信号灯、3D目标检测，作业基于OpenCV |
-| [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) | 状态估计与定位课程，卡尔曼滤波、粒子滤波、SLAM基础 |
-| [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown) | 苏黎世联邦理工小车课程，使用ROS2，软硬件结合 |
-| [Multi-Object Tracking for Automotive Systems](https://www.edx.org/learn/engineering/chalmers-university-of-technology-multi-object-tracking-for-automotive-systems) | 查尔姆斯大学多目标跟踪课程，针对汽车系统，包含SORT和Kalman融合 |
-| [Autonomous Mobile Robots](https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots) | ETH Zurich移动机器人课程，路径规划与避障算法 |
-| [Self-Driving Cars with Duckietown MOOC](https://duckietown.com/self-driving-cars-with-duckietown-mooc/) | Duckietown硬件MOOC，包含AI机器人自主决策和硬件教程 |
-| [Advanced Kalman Filtering and Sensor Fusion](https://www.classcentral.com/course/udemy-advanced-kalman-filtering-and-sensor-fusion-401323) | Udemy高级卡尔曼滤波与传感器融合课程，包含模拟实现 |
-| [Sensor Fusion Engineer Nanodegree](https://www.udacity.com/course/sensor-fusion-engineer--nd313) | Udacity传感器融合专项，LiDAR+Radar+Camera融合，使用C++实现 |
-| [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer--nd013) | Udacity自驾车工程师全栈专项，从感知到规划，包含C++项目 |
-| [AI for Autonomous Vehicles and Robotics](https://www.coursera.org/learn/ai-for-autonomous-vehicles-and-robotics) | 密歇根大学课程，AI在自驾车中的应用，包含Kalman滤波和决策 |
-| [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/) | Udemy深度学习构建自主车课程，主要使用Python |
-| [Autonomous Aerospace Systems](https://www.coursera.org/learn/autonomous-aerospace-systems) | 自驾飞行器软件工程课程，路径规划与传感器融合，可迁移至地面车辆 |
+- [Apollo 自动驾驶入门](https://apollo.baidu.com/community/online-course/1)  
+  高精度地图、定位、感知、预测、规划与控制。基于Apollo开源框架，中文讲解
+- [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars)  
+  多伦多大学四门套课，覆盖感知、定位、规划、控制全栈
+- [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars)  
+  自动驾驶入门课，使用CARLA模拟器
+- [Motion Planning for Self-Driving Cars](https://www.coursera.org/learn/motion-planning-self-driving-cars)   
+  运动规划课程，包含A*、Hybrid A*、Lattice、MPC等算法
+- [Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars)  
+  视觉感知课程，车道线、信号灯、3D目标检测，作业基于OpenCV
+- [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars)  
+  状态估计与定位课程，卡尔曼滤波、粒子滤波、SLAM基础
+- [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown)  
+  苏黎世联邦理工小车课程，使用ROS2，软硬件结合
+- [Multi-Object Tracking for Automotive Systems](https://www.edx.org/learn/engineering/chalmers-university-of-technology-multi-object-tracking-for-automotive-systems)  
+  查尔姆斯大学多目标跟踪课程，针对汽车系统，包含SORT和Kalman融合
+- [Autonomous Mobile Robots](https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots)  
+  ETH Zurich移动机器人课程，路径规划与避障算法
+- [Self-Driving Cars with Duckietown MOOC](https://duckietown.com/self-driving-cars-with-duckietown-mooc/)  
+  Duckietown硬件MOOC，包含AI机器人自主决策和硬件教程
+- [Advanced Kalman Filtering and Sensor Fusion](https://www.classcentral.com/course/udemy-advanced-kalman-filtering-and-sensor-fusion-401323)  
+  Udemy高级卡尔曼滤波与传感器融合课程，包含模拟实现
+- [Sensor Fusion Engineer Nanodegree](https://www.udacity.com/course/sensor-fusion-engineer--nd313)  
+  Udacity传感器融合专项，LiDAR+Radar+Camera融合，使用C++实现
+- [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer--nd013)  
+  Udacity自驾车工程师全栈专项，从感知到规划，包含C++项目
+- [AI for Autonomous Vehicles and Robotics](https://www.coursera.org/learn/ai-for-autonomous-vehicles-and-robotics)  
+  密歇根大学课程，AI在自驾车中的应用，包含Kalman滤波和决策
+- [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/)  
+  Udemy深度学习构建自主车课程，主要使用Python
+- [Autonomous Aerospace Systems](https://www.coursera.org/learn/autonomous-aerospace-systems)  
+  自驾飞行器软件工程课程，路径规划与传感器融合，可迁移至地面车辆
 
     
 ### 书籍
-| 书籍名称                                      | 作者                                      | 简介                              |
-|------------------------------------------|-------------------------------------------|-----------------------------------|
-| 无人驾驶车辆系统概论（第2版）            | Rahul Kala                               | 1000+页自动驾驶全栈教材 |
-| 自动驾驶技术系列·决策与规划              | 清华大学智能产业研究院（AIR团队）        | 国内最全面的规划算法书 |
-| 无人驾驶原理与实践                        | 刘少山等（兰州大学）                      | 完整C++工程代码，从零搭建L4小车   |
-| Probabilistic Robotics                   | Sebastian Thrun / Wolfram Burgard / Dieter Fox | 概率机器人学标准教材，定位与SLAM |
-| Planning Algorithms                      | Steven M. LaValle                        | 路径规划领域经典参考书            |
-| Effective Modern C++                     | Scott Meyers                             | 现代C++最佳实践与代码规范         |
-| C++ Concurrency in Action（第2版）       | Anthony Williams                         | C++多线程与并发编程实战           |
-| C++ Templates: The Complete Guide（第2版）| David Vandevoorde / Nicolai M. Josuttis / Douglas Gregor | C++模板元编程完整指南 |
-| Multiple View Geometry in Computer Vision（第2版） | Richard Hartley & Andrew Zisserman | 计算机视觉多视图几何标准教材     |
-| Vehicle Dynamics and Control（第2版）    | Rajesh Rajamani                          | 车辆动力学与控制经典教材          |
-| Autonomous Driving: How the Driverless Revolution will Change the World | Andreas Herrmann 等              | 自动驾驶产业全景+技术路线，适合开阔眼界 |
-| Introduction to Autonomous Mobile Robots（第2版） | Roland Siegwart 等               | 移动机器人入门经典，传感器到导航全讲   |
-| State Estimation for Robotics                  | Timothy D. Barfoot               | 卡尔曼滤波、因子图、iSAM现代推导 |
-| Principles of Robot Motion: Theory, Algorithms, and Implementations | Howie Choset 等              | 运动规划完整理论体系   |
-| Applied Predictive Control                     | Sunan Huang & Tan Kok Kiong      | 自动驾驶里最实用的MPC教材   |
-| Model Predictive Control: Theory and Design    | Rawlings & Mayne                 | MPC领域绝对标准教材，控制组必备        |
-| Autonomous Vehicle Technology: A Guide for Policymakers and Planners | James M. Anderson 等        | 系统架构与模块划分清晰，适合写方案   |
-| Learning OpenCV 4（Vol.1 & Vol.2）             | Adrian Kaehler & Gary Bradski    | OpenCV官方书         |
-| Modern Robotics: Mechanics, Planning, and Control | Kevin M. Lynch & Frank C. Park | 机械臂+移动机器人现代教材 |
-| The DARPA Urban Challenge                      | Martin Buehler 等                | 2007年DARPA冠军队伍技术总结，历史经典  |
-| [Deep Learning for Self-driving Car](https://www.princeton.edu/~alaink/Orf467F14/Deep%20Driving.pdf)           | Chenyi Chen 等 (Princeton)        | 深度学习端到端自动驾驶经典，含C++实现思路         |
-| [Self-Driving Vehicles and Enabling Technologies](https://www.intechopen.com/books/9869)       | Marian Găiceanu 等 (编)           | 全书章节免费PDF，含C++嵌入式章节              |
-| [Autonomous Driving: Technical, Legal and Social Aspects](https://link.springer.com/content/pdf/10.1007/978-3-662-48847-8.pdf) | Markus Maurer 等           | Springer整书Open Access，技术+法规+架构     |
-| [Self-Driving Car Using Simulator](https://www.researchgate.net/publication/380180926_Self-Driving_Car_Using_Simulator/download) | ResearchGate 项目报告     | 完整C++小车项目+代码，适合直接上手            |
-| [Self-Driving Cars: Are We Ready?](https://assets.kpmg.com/content/dam/kpmg/pdf/2013/10/self-driving-cars-are-we-ready.pdf) | KPMG                       | 经典产业报告        |
-| [Self-Driving Car Autonomous System Overview](https://dadun.unav.edu/bitstream/10171/67589/1/2022.06.01%20TFG%20Daniel%20Casado%20Herraez.pdf) | Daniel Casado Herráez     | 西班牙大学生毕业设计，C++硬件接口实战案例     |
-| [Planning Algorithms](http://planning.cs.uiuc.edu/planning.pdf)                    | Steven M. LaValle                 | 路径规划领域绝对经典，A*/RRT/PRM全有          |
-| [Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf) | Sebastian Thrun 等             | 概率机器人学圣经，定位/SLAM必读               |
-| [Multiple View Geometry in Computer Vision（第2版）](http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf) | Hartley & Zisserman          | 多视图几何领域标准参考书，视觉SLAM必备                  |
-| [State Estimation for Robotics](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF9E1F4F7D0D7B8F6D8B8E8F9E0F1A2B/9781107159396ar.pdf/State_Estimation_for_Robotics.pdf) | Timothy D. Barfoot | 现代卡尔曼/因子图最清晰教材                   | 
+- 《无人驾驶车辆系统概论（第2版）》  
+  1000+页自动驾驶全栈教材
+- 《自动驾驶技术系列·决策与规划》    
+  国内最全面的规划算法书
+- 《无人驾驶原理与实践》   
+  完整C++工程代码，从零搭建L4小车
+- Probabilistic Robotics  
+  概率机器人学标准教材，定位与SLAM
+- Planning Algorithms  
+  路径规划领域经典参考书
+- Effective Modern C++  
+  现代C++最佳实践与代码规范
+- C++ Concurrency in Action（第2版）  
+  C++多线程与并发编程实战
+- C++ Templates: The Complete Guide（第2版）  
+  C++模板元编程完整指南
+- Multiple View Geometry in Computer Vision（第2版）  
+  计算机视觉多视图几何标准教材
+- Vehicle Dynamics and Control（第2版）  
+  车辆动力学与控制经典教材
+- Autonomous Driving: How the Driverless Revolution will Change the World  
+  自动驾驶产业全景+技术路线，适合开阔眼界
+- Introduction to Autonomous Mobile Robots（第2版）  
+  移动机器人入门经典，传感器到导航全讲
+- State Estimation for Robotics  
+  卡尔曼滤波、因子图、iSAM现代推导
+- Principles of Robot Motion: Theory, Algorithms, and Implementations  
+  运动规划完整理论体系
+- Applied Predictive Control  
+  自动驾驶里最实用的MPC教材
+- Model Predictive Control: Theory and Design  
+  MPC领域绝对标准教材，控制组必备
+- Autonomous Vehicle Technology: A Guide for Policymakers and Planners  
+  系统架构与模块划分清晰，适合写方案
+- Learning OpenCV 4（Vol.1 & Vol.2）  
+  OpenCV官方书
+- Modern Robotics: Mechanics, Planning, and Control  
+  机械臂+移动机器人现代教材
+- The DARPA Urban Challenge  
+  2007年DARPA冠军队伍技术总结，历史经典
+- [Deep Learning for Self-driving Car](https://www.princeton.edu/~alaink/Orf467F14/Deep%20Driving.pdf)  
+  深度学习端到端自动驾驶经典，含C++实现思路
+- [Self-Driving Vehicles and Enabling Technologies](https://www.intechopen.com/books/9869)  
+  全书章节免费PDF，含C++嵌入式章节
+- [Autonomous Driving: Technical, Legal and Social Aspects](https://link.springer.com/content/pdf/10.1007/978-3-662-48847-8.pdf)  
+  Springer整书Open Access，技术+法规+架构
+- [Self-Driving Car Using Simulator](https://www.researchgate.net/publication/380180926_Self-Driving_Car_Using_Simulator/download)  
+  完整C++小车项目+代码，适合直接上手
+- [Self-Driving Cars: Are We Ready?](https://assets.kpmg.com/content/dam/kpmg/pdf/2013/10/self-driving-cars-are-we-ready.pdf)  
+  经典产业报告
+- [Self-Driving Car Autonomous System Overview](https://dadun.unav.edu/bitstream/10171/67589/1/2022.06.01%20TFG%20Daniel%20Casado%20Herraez.pdf)  
+  西班牙大学生毕业设计，C++硬件接口实战案例
+- [Planning Algorithms](http://planning.cs.uiuc.edu/planning.pdf)  
+  路径规划领域绝对经典，A*/RRT/PRM全有
+- [Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)  
+  概率机器人学圣经，定位/SLAM必读
+- [Multiple View Geometry in Computer Vision（第2版）](http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf)  
+  多视图几何领域标准参考书，视觉SLAM必备
+- [State Estimation for Robotics](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF9E1F4F7D0D7B8F6D8B8E8F9E0F1A2B/9781107159396ar.pdf/State_Estimation_for_Robotics.pdf)  
+  现代卡尔曼/因子图最清晰教材
 
 ### 论文
-| 论文标题 | 作者 | 年份 | 简介 |
-|-------------------------------------------------------------|----------------------------|------|-----------------------------------------------------|
-| [DiffSemanticFusion: Semantic Raster BEV Fusion for Autonomous Driving via Online HD Map Diffusion](https://arxiv.org/pdf/2508.01778.pdf) | Sun Peng et al. | 2025 | 语义光栅+在线HD地图扩散融合 |
-| [ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](https://arxiv.org/pdf/2508.11428.pdf) | Wang Yichen et al. | 2025 | VLM+世界模型统一想象-规划闭环 |
-| [Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.09800.pdf) | Haochen Liu et al. | 2025 | RL+自监督精炼端到端驾驶 |
-| [UncAD: Towards Safe End-to-End Autonomous Driving via Online Map Uncertainty](https://arxiv.org/pdf/2504.12826.pdf) | Pengxuan Yang et al. | 2025 | 在线地图不确定性建模 |
-| [M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction](https://arxiv.org/pdf/2503.18100.pdf) | Xuesong Chen et al. | 2025 | 多模态多任务3D感知统一网络 |
-| [Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning](https://arxiv.org/pdf/2503.14182.pdf) | Bozhou Zhang et al. | 2025 | 历史预测端到端驾驶时空融合 |
-| [MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving](https://arxiv.org/pdf/2504.00379.pdf) | Zhang Yuxuan et al. | 2025 | 视觉标记提示学习提升AD-VQA空间理解 |
-| [Adaptive Field Effect Planner for Safe Interactive Autonomous Driving on Curved Roads](https://arxiv.org/pdf/2504.14747.pdf) | Li Chen et al. | 2025 | 动态风险场+改进粒子群规划 |
-| [Multi-Agent Autonomous Driving Systems with Large Language Models](https://arxiv.org/pdf/2502.16804.pdf) | Yaozu Wu et al. | 2025 | 多代理LLM自动驾驶综述 |
-| [The Role of World Models in Shaping Autonomous Driving](https://arxiv.org/pdf/2502.10498.pdf) | Hang Wang et al. | 2025 | 世界模型在自动驾驶中的综述 |
-| [DiffusionDrive](https://arxiv.org/pdf/2411.15139.pdf) | Bencheng Liao et al. | 2025 | 截断扩散模型端到端驾驶 |
-| [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/pdf/2312.14150.pdf) | Chonghao Sima et al. | 2025 | 基于图结构的VQA驾驶理解方法 |
-| [VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision](https://arxiv.org/pdf/2412.14446.pdf) | Yi Xu et al. | 2024 | 视觉语言模型监督端到端驾驶 |
-| [World knowledge-enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving](https://arxiv.org/pdf/2412.06324.pdf) | Mingliang Zhai et al. | 2024 | 世界知识增强指令交互推理 |
-| [LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement](https://arxiv.org/pdf/2411.12980.pdf) | Siwen Jiao et al. | 2024 | 视觉文本交互VLM令牌选择恢复增强 |
-| [GAIA-1: A Generative World Model](https://arxiv.org/pdf/2309.17080.pdf) | Aleksandr Petiushko et al. | 2024 | 生成式世界模型 |
-| [VADv2](https://arxiv.org/pdf/2402.13243.pdf) | Xiaoxiao Long et al. | 2024 | 概率规划端到端框架 |
-| [CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/pdf/2408.10845.pdf) | Dong-Hoon Kim et al. | 2024 | 80+小时VLA驾驶数据集 |
-| [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577.pdf) | Li Jianxiong et al. | 2024 | 视觉-语言直接规划框架 |
-| [SEAL: Towards Safe Autonomous Driving via Skill-Enabled Adversary Learning](https://arxiv.org/pdf/2409.10320.pdf) | Benjamin Stoler et al. | 2024 | 技能启用对抗学习闭环场景生成 |
-| [DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences](https://arxiv.org/pdf/2406.03008.pdf) | Yidong Huang et al. | 2024 | LLM代理具身社交经验增强 |
-| [Online Analytic Exemplar-Free Continual Learning with Large Models for Imbalanced Autonomous Driving Task](https://arxiv.org/pdf/2405.17779.pdf) | Huiping Zhuang et al. | 2024 | 在线无样本持续学习不平衡任务 |
-| [AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving](https://arxiv.org/pdf/2405.07865.pdf) | Daniel Bogdoll et al. | 2024 | 多模态异常检测基准 |
-| [Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior](https://arxiv.org/pdf/2405.05885.pdf) | Ziang Guo et al. | 2024 | VLM人类行为理解复杂路场景 |
-| [Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System](https://arxiv.org/pdf/2404.09496.pdf) | Genjia Liu et al. | 2024 | 协作自动驾驶模拟平台端到端系统 |
-| [End-to-End Autonomous Driving through V2X Cooperation](https://arxiv.org/pdf/2404.00717.pdf) | Haibao Yu et al. | 2024 | V2X合作端到端驾驶 |
-| [AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving](https://arxiv.org/pdf/2403.17373.pdf) | Mingfu Liang et al. | 2024 | 自动数据引擎物体检测 |
-| [Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap](https://arxiv.org/pdf/2403.16092.pdf) | Carl Lindström et al. | 2024 | NeRF真实模拟差距闭合 |
-| [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf) | Xiaoyu Tian et al. | 2024 | 自动驾驶视觉语言大模型融合 |
-| [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/pdf/2402.05746.pdf) | Yuxi Wei et al. | 2024 | 协作LLM代理可编辑场景模拟 |
-| [Planning-oriented Autonomous Driving (UniAD)](https://arxiv.org/pdf/2212.10156.pdf) | Yihan Hu et al. | 2023 | 规划导向端到端框架 |
-| [OpenOccupancy: A Large Scale Benchmark](https://arxiv.org/pdf/2303.03991.pdf) | Xiaofeng Wang et al. | 2023 | 大规模Occupancy基准 |
-| [DriveAdapter](https://arxiv.org/pdf/2309.01243.pdf) | Xiaosong Jia et al. | 2023 | 感知-规划解耦方案 |
-| [NEAT: Neural Attention Fields](https://arxiv.org/pdf/2309.04442.pdf) | Kaustubh Mani et al. | 2023 | 轻量端到端模型 |
-| [NeuRAD: Neural Rendering for Autonomous Driving](https://arxiv.org/pdf/2311.15260.pdf) | Adam Tonderski et al. | 2023 | 神经渲染自动驾驶 |
-| [TransFuser](https://arxiv.org/pdf/2205.15997.pdf) | Kashyap Chitta et al. | 2022 | Transformer多传感器融合端到端方法 |
-| [ST-P3](https://arxiv.org/pdf/2207.07601.pdf) | Shengchao Hu et al. | 2022 | 时空Transformer预测与规划方法 |
-| [Efficient Lidar Odometry for Autonomous Driving](https://arxiv.org/pdf/2209.06828.pdf) | Junha Kim et al. | 2022 | 纯激光里程计 |
-| [VISTA 2.0](https://arxiv.org/pdf/2211.00931.pdf) | Alexander Amini et al. | 2022 | 数据驱动仿真器 |
-| [BEVFormer](https://arxiv.org/pdf/2203.17270.pdf) | Zhiqi Li et al. | 2022 | BEV空间多相机感知框架 |
-| [FAST-LIO2](https://arxiv.org/pdf/2107.06829.pdf) | Wei Xu et al. | 2021 | 紧耦合激光-惯性里程计 |
-| [Learning by Cheating](https://arxiv.org/pdf/1912.12294.pdf) | Dian Chen et al. | 2019 | 特权学习+模仿学习结合方案 |
-| [CARLA: An Open Urban Driving Simulator](https://arxiv.org/pdf/1711.03938.pdf) | Alexey Dosovitskiy et al. | 2017 | 开源城市驾驶仿真器 |
-| [End-to-End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf) | Mariusz Bojarski et al. | 2016 | 端到端自动驾驶早期代表工作 |
+- [DiffSemanticFusion: Semantic Raster BEV Fusion for Autonomous Driving via Online HD Map Diffusion](https://arxiv.org/pdf/2508.01778.pdf)  
+  语义光栅+在线HD地图扩散融合
+- [ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](https://arxiv.org/pdf/2508.11428.pdf)  
+  VLM+世界模型统一想象-规划闭环
+- [Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.09800.pdf)  
+  RL+自监督精炼端到端驾驶
+- [UncAD: Towards Safe End-to-End Autonomous Driving via Online Map Uncertainty](https://arxiv.org/pdf/2504.12826.pdf)  
+  在线地图不确定性建模
+- [M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction](https://arxiv.org/pdf/2503.18100.pdf)  
+  多模态多任务3D感知统一网络
+- [Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning](https://arxiv.org/pdf/2503.14182.pdf)  
+  历史预测端到端驾驶时空融合
+- [MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving](https://arxiv.org/pdf/2504.00379.pdf)  
+  视觉标记提示学习提升AD-VQA空间理解
+- [Adaptive Field Effect Planner for Safe Interactive Autonomous Driving on Curved Roads](https://arxiv.org/pdf/2504.14747.pdf)  
+  动态风险场+改进粒子群规划
+- [Multi-Agent Autonomous Driving Systems with Large Language Models](https://arxiv.org/pdf/2502.16804.pdf)  
+  多代理LLM自动驾驶综述
+- [The Role of World Models in Shaping Autonomous Driving](https://arxiv.org/pdf/2502.10498.pdf)  
+  世界模型在自动驾驶中的综述
+- [DiffusionDrive](https://arxiv.org/pdf/2411.15139.pdf)  
+  截断扩散模型端到端驾驶
+- [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/pdf/2312.14150.pdf)  
+  基于图结构的VQA驾驶理解方法
+- [VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision](https://arxiv.org/pdf/2412.14446.pdf)  
+  视觉语言模型监督端到端驾驶
+- [World knowledge-enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving](https://arxiv.org/pdf/2412.06324.pdf)  
+  世界知识增强指令交互推理
+- [LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement](https://arxiv.org/pdf/2411.12980.pdf)  
+  视觉文本交互VLM令牌选择恢复增强
+- [GAIA-1: A Generative World Model](https://arxiv.org/pdf/2309.17080.pdf)  
+  生成式世界模型
+- [VADv2](https://arxiv.org/pdf/2402.13243.pdf)  
+  概率规划端到端框架
+- [CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/pdf/2408.10845.pdf)  
+  80+小时VLA驾驶数据集
+- [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577.pdf)  
+  视觉-语言直接规划框架
+- [SEAL: Towards Safe Autonomous Driving via Skill-Enabled Adversary Learning](https://arxiv.org/pdf/2409.10320.pdf)  
+  技能启用对抗学习闭环场景生成
+- [DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences](https://arxiv.org/pdf/2406.03008.pdf)  
+  LLM代理具身社交经验增强
+- [Online Analytic Exemplar-Free Continual Learning with Large Models for Imbalanced Autonomous Driving Task](https://arxiv.org/pdf/2405.17779.pdf)  
+  在线无样本持续学习不平衡任务
+- [AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving](https://arxiv.org/pdf/2405.07865.pdf)  
+  多模态异常检测基准
+- [Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior](https://arxiv.org/pdf/2405.05885.pdf)  
+  VLM人类行为理解复杂路场景
+- [Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System](https://arxiv.org/pdf/2404.09496.pdf)  
+  协作自动驾驶模拟平台端到端系统
+- [End-to-End Autonomous Driving through V2X Cooperation](https://arxiv.org/pdf/2404.00717.pdf)  
+  V2X合作端到端驾驶
+- [AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving](https://arxiv.org/pdf/2403.17373.pdf)  
+  自动数据引擎物体检测
+- [Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap](https://arxiv.org/pdf/2403.16092.pdf)  
+  NeRF真实模拟差距闭合
+- [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf)  
+  自动驾驶视觉语言大模型融合
+- [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/pdf/2402.05746.pdf)  
+  协作LLM代理可编辑场景模拟
+- [Planning-oriented Autonomous Driving (UniAD)](https://arxiv.org/pdf/2212.10156.pdf)  
+  规划导向端到端框架
+- [OpenOccupancy: A Large Scale Benchmark](https://arxiv.org/pdf/2303.03991.pdf)  
+  大规模Occupancy基准
+- [DriveAdapter](https://arxiv.org/pdf/2309.01243.pdf)  
+  感知-规划解耦方案
+- [NEAT: Neural Attention Fields](https://arxiv.org/pdf/2309.04442.pdf)  
+  轻量端到端模型
+- [NeuRAD: Neural Rendering for Autonomous Driving](https://arxiv.org/pdf/2311.15260.pdf)  
+  神经渲染自动驾驶
+- [TransFuser](https://arxiv.org/pdf/2205.15997.pdf)  
+  Transformer多传感器融合端到端方法
+- [ST-P3](https://arxiv.org/pdf/2207.07601.pdf)  
+  时空Transformer预测与规划方法
+- [Efficient Lidar Odometry for Autonomous Driving](https://arxiv.org/pdf/2209.06828.pdf)  
+  纯激光里程计
+- [VISTA 2.0](https://arxiv.org/pdf/2211.00931.pdf)  
+  数据驱动仿真器
+- [BEVFormer](https://arxiv.org/pdf/2203.17270.pdf)  
+  BEV空间多相机感知框架
+- [FAST-LIO2](https://arxiv.org/pdf/2107.06829.pdf)  
+  紧耦合激光-惯性里程计
+- [Learning by Cheating](https://arxiv.org/pdf/1912.12294.pdf)  
+  特权学习+模仿学习结合方案
+- [CARLA: An Open Urban Driving Simulator](https://arxiv.org/pdf/1711.03938.pdf)  
+  开源城市驾驶仿真器
+- [End-to-End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf)  
+  端到端自动驾驶早期代表工作
+
+  
 ## 📊 数据集
 
 
