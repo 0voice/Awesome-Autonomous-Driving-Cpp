@@ -506,6 +506,9 @@ SLAM 在线建图（如机器人、自动驾驶测试车）。
 **应用场景**
 低速场景路径规划（如停车场泊车、狭窄道路会车）。
 
+参考资源：
+- [A* 路径规划可视化教程](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+
 ### Lattice Planner
 **核心原理**
 基于“晶格（Lattice）”状态采样，生成多个多项式轨迹，通过代价函数筛选最优轨迹，兼顾平滑性和约束满足。
@@ -523,6 +526,8 @@ SLAM 在线建图（如机器人、自动驾驶测试车）。
 - **约束检查**：确保轨迹满足车辆动力学约束（如最大转向角、最大加速度）；
 **应用场景**
 高速/城市道路路径规划（如车道保持、跟车行驶）。
+参考资源：
+- [Lattice Planner 官方代码（Apollo）](https://github.com/ApolloAuto/apollo/tree/master/modules/planning)
 
 ### EM Planner
 **核心原理**
@@ -536,6 +541,9 @@ SLAM 在线建图（如机器人、自动驾驶测试车）。
 - **多目标优化**：平衡安全性、效率、舒适性；
 **应用场景**
 复杂城市道路规划（如路口转弯、避让行人）。
+
+参考资源：
+- [EM Planner 完整重实现](https://github.com/ApolloAuto/apollo/tree/r6.0.0/modules/planning)
 
 ### 行为决策与状态机
 **核心原理**
@@ -557,7 +565,8 @@ SLAM 在线建图（如机器人、自动驾驶测试车）。
 - **优先级设计**：安全优先级最高（如遇障碍物优先停车）；
 **应用场景**
 全场景行为决策（是规划模块的“大脑”）。
-
+参考资源:
+- [行为决策与有限状态机（Apollo Scenarios）](https://github.com/ApolloAuto/apollo/tree/master/modules/planning/scenarios)
 ---
 
 ## 控制
