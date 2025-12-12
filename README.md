@@ -976,6 +976,7 @@
 - [东风汽车](https://dfmc.hotjob.cn/SU60cc3c9cbef57c51986a8ca0/pb/index.html#/)
 - [中国一汽](https://faw-zhaopin.hotjob.cn/)
 - [智加科技](https://app.mokahr.com/social-recruitment/plus/69931#/)
+- [赢彻科技](https://app.mokahr.com/social-recruitment/inceptio-ai/150619?locale=zh-CN#/jobs?zhineng%5B0%5D=0)
 
 ## 🤝 社区与贡献
 
